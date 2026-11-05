@@ -1,0 +1,69 @@
+name: Termine aktualisieren und Pages veröffentlichen
+
+on:
+  push:
+    branches: [main]
+  schedule:
+    - cron: '37 5 * * *'
+  workflow_dispatch:
+
+concurrency:
+  group: sub-pages
+  cancel-in-progress: false
+
+permissions:
+  contents: read
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    permissions:
+      contents: write
+      pages: read
+    steps:
+      - uses: actions/checkout@v6
+      - uses: actions/setup-python@v6
+        with:
+          python-version: '3.12'
+      - uses: actions/setup-node@v6
+        with:
+          node-version: '24'
+      - name: Parser, Fehlerschutz und Kalender testen
+        run: |
+          python -m unittest discover -s tests -v
+          node --test tests/*.test.cjs
+          node --check site/app.js
+          node --check site/sw.js
+      - name: Offizielle Termine abrufen (bei Fehlern letzten Stand behalten)
+        run: python scripts/update_events.py --allow-stale
+      - name: Geprüfte Daten sichern
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add site/data/events.json site/data/status.json site/events.ics
+          if ! git diff --cached --quiet; then
+            git commit -m "Veranstaltungen und Abrufstatus aktualisieren"
+            git push
+          fi
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v4
+        with:
+          path: site
+      - name: Abrufstatus im Laufbericht anzeigen
+        run: |
+          python -c "import json,os; s=json.load(open('site/data/status.json')); open(os.environ['GITHUB_STEP_SUMMARY'],'a').write(('✅ ' if s['ok'] else '⚠️ ') + s['message'] + '\n')"
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    permissions:
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Auf GitHub Pages veröffentlichen
+        id: deployment
+        uses: actions/deploy-pages@v4
