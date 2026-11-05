@@ -1,0 +1,168 @@
+<!doctype html><html lang="de"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Sub-App · PC-Anleitung</title><style>body{font:17px/1.7 system-ui,Arial,sans-serif;color:#202820;background:#f5f6f0;margin:0}main{max-width:880px;background:white;margin:35px auto;padding:45px;border:1px solid #d7dece;border-radius:10px}h1{font-size:34px;line-height:1.2}h2{margin-top:42px;font-size:25px;border-top:1px solid #d7dece;padding-top:24px}a{color:#256513;overflow-wrap:anywhere}li{padding:5px 0}pre{background:#162016;color:#e5ff55;padding:20px;overflow:auto;border-radius:6px;font-size:14px}code{font-family:Consolas,monospace;font-size:.9em}table{border-collapse:collapse;width:100%;font-size:14px}th,td{text-align:left;vertical-align:top;border:1px solid #d7dece;padding:12px}th{background:#eef4e6}strong{color:#142a0c}@media(max-width:650px){main{margin:0;padding:22px;border:0}h1{font-size:29px}table{display:block;overflow:auto}}@media print{body{background:white}main{border:0;margin:0;padding:0}h2{break-after:avoid}pre{white-space:pre-wrap;color:black;background:#eee}}</style></head><body><main><h1>Sub-App am PC einrichten</h1>
+<p>Du brauchst deinen GitHub-Login und einen PC-Browser. Ein eigenes öffentliches Repository <strong>juju089/sub-events</strong> legst du im ersten Schritt an. Für diesen Weg musst du nichts programmieren und keine Befehle eingeben. Das ZIP enthält alles, einschließlich der sonst leicht vergessenen GitHub-Automatik.</p>
+<h2>0. Neues Repository für das Sub anlegen</h2>
+<p>Dieses Paket ist für ein <strong>eigenes</strong> Repository namens <strong>sub-events</strong> vorbereitet. Dein bestehendes <code>substanz-events</code> bleibt ein separates Projekt. Es wurde noch kein neues Repository für dich angelegt.</p>
+<ol>
+<li>Öffne <a href="https://github.com/new">https://github.com/new</a> und melde dich mit <strong>juju089</strong> an.</li>
+<li>Bei <strong>Repository name</strong> genau <strong>sub-events</strong> eintragen.</li>
+<li>Sichtbarkeit <strong>Public</strong> wählen. Eine README kannst du aktivieren; sie wird gleich durch die Paket-README ersetzt. Keine zusätzliche Vorlage oder Automatik auswählen.</li>
+<li><strong>Create repository</strong> anklicken. Danach lautet die Adresse <a href="https://github.com/juju089/sub-events">https://github.com/juju089/sub-events</a>.</li>
+<li>Falls du dieses Repository bereits angelegt hast, diesen Schritt überspringen.</li>
+</ol>
+<p>Verwendest du einen anderen GitHub-Benutzernamen oder Repository-Namen, ändern sich die späteren App- und Abo-Adressen entsprechend. Die App berechnet die Abo-Adresse aus ihrer tatsächlichen Webadresse selbst.</p>
+<h2>1. ZIP vollständig entpacken</h2>
+<ol>
+<li>Lade <code>sub-events-komplett.zip</code> herunter.</li>
+<li>Rechtsklick auf die ZIP-Datei → <strong>Alle extrahieren</strong> → <strong>Extrahieren</strong>.</li>
+<li>Öffne den entpackten Ordner <code>sub-events</code>.</li>
+<li>Du musst darin direkt die Ordner <code>site</code>, <code>scripts</code>, <code>tests</code>, <code>.github</code> und die Datei <code>README.md</code> sehen. Öffne nicht nur eine Ansicht innerhalb des ZIPs.</li>
+</ol>
+<p>Der Punkt gehört zum Ordnernamen <strong>.github</strong>. Windows 11: Falls er nicht zu sehen ist, im Explorer <strong>Anzeigen → Einblenden → Ausgeblendete Elemente</strong>. Windows 10: <strong>Ansicht → Ausgeblendete Elemente</strong>. Unter <code>.github</code> befindet sich <code>workflows</code>, darin <code>update-and-deploy.yml</code>.</p>
+<h2>2. Programmdateien hochladen</h2>
+<ol>
+<li>Öffne <a href="https://github.com/juju089/sub-events">https://github.com/juju089/sub-events</a> und melde dich an.</li>
+<li>Wähle oben den Reiter <strong>Code</strong>. Links über der Dateiliste muss <strong>main</strong> stehen.</li>
+<li>Klicke auf <strong>Add file → Upload files</strong> (je nach Fensterbreite im Plus-Menü).</li>
+<li>Ziehe aus dem Explorer die drei Ordner <strong>site</strong>, <strong>scripts</strong> und <strong>tests</strong> gemeinsam in die Upload-Fläche. Die Unterordner müssen erhalten bleiben. Über „choose your files“ lassen sich Ordner nicht in jedem Browser komfortabel auswählen; Ziehen ist hier einfacher.</li>
+<li>Ziehe zusätzlich <strong>README.md</strong>, <strong>ANLEITUNG-PC.md</strong>, <strong>ANLEITUNG-PC.html</strong> und <strong>PRUEFBERICHT.md</strong> hinein. <code>.gitignore</code> kannst du ebenfalls mitnehmen, falls sichtbar; er ist für den Betrieb nicht zwingend.</li>
+<li>Warte, bis alle Uploads fertig sind. Es sind deutlich weniger als 100 Dateien und jede ist kleiner als 25 MB.</li>
+<li>Prüfe die Liste: Sie muss etwa <code>site/index.html</code>, <code>scripts/update_events.py</code>, <code>tests/test_update.py</code> enthalten. <strong>Nicht</strong> <code>sub-events/site/index.html</code> und <strong>nicht</strong> nur <code>index.html</code> ohne <code>site/</code>.</li>
+<li>Als Commit-Nachricht z. B. <strong>Sub-App hinzufügen</strong> eingeben. Wähle <strong>Commit directly to the main branch</strong> und klicke <strong>Commit changes</strong>. Falls GitHub einen Dialog öffnet, dort bestätigen. Eine Rückfrage zum Ersetzen der bisherigen README ist erwartbar; die neue README gehört zum Paket.</li>
+</ol>
+<p><strong>Nicht die ZIP-Datei selbst hochladen.</strong> GitHub entpackt sie nicht als Website. Auch nicht nur den Inhalt von <code>site</code> hochladen: Der Workflow erwartet den Ordner <code>site</code>.</p>
+<h2>3. Den Workflow sicher hinzufügen – wichtig!</h2>
+<p>Wir legen diese eine Datei bewusst über GitHub an. So hängt die tägliche Automatik nicht davon ab, ob dein Browser den Punkt-Ordner beim Ziehen berücksichtigt hat.</p>
+<ol>
+<li>Öffne im entpackten PC-Ordner <code>.github</code> → <code>workflows</code>.</li>
+<li>Rechtsklick auf <strong>update-and-deploy.yml</strong> → <strong>Öffnen mit → Editor</strong> (Notepad). Nicht Word verwenden. Falls Windows nach einer App fragt, den Editor auswählen.</li>
+<li>Im Editor <strong>Strg+A</strong>, dann <strong>Strg+C</strong>. Das kopiert den gesamten Dateiinhalt. Du musst nichts daran verändern.</li>
+<li>Zurück bei GitHub im Repository unter <strong>Code</strong>: <strong>Add file → Create new file</strong>.</li>
+<li>Bei <strong>Name your file</strong> genau diesen vollständigen Pfad eingeben:</li>
+</ol>
+<pre><code class="language-text">.github/workflows/update-and-deploy.yml
+</code></pre>
+<ol start="6">
+<li>In das große Codefeld klicken und <strong>Strg+V</strong> drücken. Die erste Zeile muss <code>name: Termine aktualisieren und Pages veröffentlichen</code> sein. Den Inhalt nicht in den Dateinamen einfügen. Keine Markdown-Zeichen wie drei Backticks hinzufügen.</li>
+<li><strong>Commit changes</strong> anklicken, als Nachricht <strong>Tägliche Aktualisierung und Pages einrichten</strong>, direkt in <strong>main</strong> speichern.</li>
+<li>Unter <strong>Code</strong> prüfen: <code>.github</code> → <code>workflows</code> → <code>update-and-deploy.yml</code> ist vorhanden. Die Datei darf <strong>nicht</strong> auf <code>.yml.txt</code> enden.</li>
+</ol>
+<p>Falls du <code>.github</code> bereits mit hochgeladen hast und die Datei existiert: Öffne sie und prüfe den Inhalt. Nicht noch eine zweite Workflow-Datei anlegen. Bei Bedarf über das Stift-Symbol mit dem Inhalt aus dem ZIP ersetzen.</p>
+<p><strong>Achtung:</strong> Dieser Commit startet bereits einen Lauf. Solange Pages noch nicht aktiviert ist, darf dessen Veröffentlichung fehlschlagen. Das wird mit dem nächsten Schritt und einem neuen manuellen Lauf behoben.</p>
+<h2>4. GitHub Pages aktivieren</h2>
+<ol>
+<li>Oben im Repository <strong>Settings</strong> öffnen.</li>
+<li>Links auf <strong>Pages</strong> klicken (unter „Code and automation“).</li>
+<li>Im Abschnitt <strong>Build and deployment</strong> bei <strong>Source</strong> die Option <strong>GitHub Actions</strong> wählen. Falls ein Speichern-Button angezeigt wird, speichern.</li>
+<li>Nicht „Deploy from a branch“ wählen. Keine zusätzliche vorgeschlagene Pages-Workflow-Datei erstellen – der passende Workflow ist bereits im Paket.</li>
+</ol>
+<p>Der mitgelieferte Workflow beantragt die nötigen Rechte selbst. Eigene Tokens, Secrets und ein kostenpflichtiges Konto sind für dieses öffentliche Repository nicht erforderlich. Nur falls eine Fehlermeldung Bot-Commits ausdrücklich verbietet: <strong>Settings → Actions → General → Workflow permissions</strong> prüfen und <strong>Read and write permissions</strong> erlauben, sofern dein Konto diese Einstellung ändern darf. Bei Branchschutz müssen Bot-Commits auf <code>main</code> möglich sein.</p>
+<h2>5. Ersten vollständigen Lauf starten</h2>
+<ol>
+<li>Im Repository auf <strong>Actions</strong> klicken.</li>
+<li>Falls GitHub die Workflows zunächst sperrt, für dein eigenes Repository aktivieren.</li>
+<li>Links <strong>Termine aktualisieren und Pages veröffentlichen</strong> wählen.</li>
+<li>Rechts <strong>Run workflow</strong> → Branch <strong>main</strong> → grüner Button <strong>Run workflow</strong>.</li>
+<li>Den neuen Lauf öffnen. Warte einige Minuten. Die Jobs <strong>build</strong> und <strong>deploy</strong> müssen grüne Haken zeigen.</li>
+<li>In der Laufzusammenfassung muss <strong>Abruf erfolgreich</strong> stehen. Ein grüner Lauf mit „Abruf fehlgeschlagen“ bedeutet: Das alte Programm wurde absichtlich erhalten und veröffentlicht; die Abrufwarnung muss noch geprüft werden.</li>
+</ol>
+<p>Bei einem roten Lauf den fehlgeschlagenen Schritt aufklappen. Unten in dieser Anleitung findest du die häufigsten Ursachen. Nach einer Korrektur wieder einen neuen manuellen Lauf auf <code>main</code> starten.</p>
+<h2>6. App und Kalender ausprobieren</h2>
+<p>App nach erfolgreicher Veröffentlichung öffnen:</p>
+<p><a href="https://juju089.github.io/sub-events/">https://juju089.github.io/sub-events/</a></p>
+<ol>
+<li>„Datenstand“ prüfen. Die mitgelieferten Ausgangsdaten stammen vom 5. November 2026; nach einem erfolgreichen Abruf erscheint das neue Abrufdatum.</li>
+<li>Ein Suchwort wie <strong>Schach</strong> eingeben, Kategorien und Zeitraum ausprobieren.</li>
+<li><strong>Filter zurücksetzen</strong> anklicken. Ein leerer Filtertreffer ist kein technischer Fehler.</li>
+<li>Bei einem Termin <strong>Termin speichern</strong> wählen: Eine einzelne ICS-Datei wird heruntergeladen. Das ist eine Momentaufnahme.</li>
+<li>Für alle künftigen Aktualisierungen unten <strong>Kalender abonnieren</strong> verwenden oder die HTTPS-Abo-Adresse kopieren:</li>
+</ol>
+<pre><code class="language-text">https://juju089.github.io/sub-events/events.ics
+</code></pre>
+<p>Bitte erst abonnieren, wenn die App veröffentlicht ist. Die Adresse ist vorher noch nicht verfügbar. <strong>ICS herunterladen</strong> ist ein einmaliger Import und kein Abo. Nicht dasselbe Programm zusätzlich immer wieder importieren, sonst können doppelte Einträge entstehen.</p>
+<h2>7. iPhone / Android</h2>
+<p><strong>iPhone:</strong> App-Adresse in Safari öffnen → Teilen → <strong>Zum Home-Bildschirm</strong>. Zum Kalenderabo in der App <strong>Kalender abonnieren</strong> antippen und bestätigen. Falls der direkte Link nicht öffnet: In Apple Kalender über <strong>Kalender → Hinzufügen → Kalenderabonnement hinzufügen</strong> die HTTPS-Adresse einsetzen. Menübezeichnungen können je nach iOS-Version abweichen.</p>
+<p><strong>Android:</strong> App-Adresse in Chrome öffnen → Browser-Menü → <strong>App installieren</strong> oder <strong>Zum Startbildschirm</strong>. Für Google Kalender am PC die Google-Kalender-Webseite öffnen → <strong>Weitere Kalender + → Per URL</strong> → HTTPS-Abo-Adresse einfügen. Der Kalender erscheint anschließend auf dem Handy, wenn dasselbe Konto verwendet wird und dieser Kalender eingeblendet ist.</p>
+<p><strong>Outlook:</strong> In Outlook im Web Kalender öffnen → <strong>Kalender hinzufügen → Aus dem Internet abonnieren</strong> und die HTTPS-Adresse einsetzen.</p>
+<p>Die App lädt neue Daten beim Öffnen und über <strong>Aktualisieren</strong>. Offline zeigt sie zuletzt geladene Daten; für die erste Nutzung und für neue Daten wird Internet benötigt. Kalender-Apps bestimmen selbst ihr Aktualisierungsintervall. Änderungen können daher verspätet sichtbar werden.</p>
+<h2>Welche Termine sind enthalten?</h2>
+<p>Die App übernimmt die öffentlichen Bereiche <strong>Events im Zentrum</strong> und <strong>Mittendrin</strong> des offiziellen Sub-Kalenders. Dienstpläne sind nicht enthalten. Der Abruf umfasst ein rollierendes Fenster der <strong>nächsten 180 Tage</strong>. Das bedeutet nicht, dass der Veranstalter schon für jeden dieser Tage Termine veröffentlicht hat. Wiederholungen werden nur übernommen, wenn sie als konkrete Termine in der Quelle stehen.</p>
+<p>Treffpunkte können außerhalb des Sub liegen. Verbindliche Angaben zu Ort, Zugänglichkeit, Zielgruppe und Anmeldung stehen unter <strong>Originaltermin</strong>. Ein fehlendes Anmeldungsfeld bedeutet nicht automatisch, dass keine Anmeldung nötig ist. Die App meldet niemanden an und speichert keine persönlichen Teilnahmepläne.</p>
+<h2>8. Was passiert danach automatisch?</h2>
+<p>GitHub ruft täglich um <strong>05:37 UTC</strong> die offizielle Seite ab: 06:37 Uhr im Winter, 07:37 Uhr im Sommer in Deutschland. Der Lauf kann sich bei GitHub verzögern. Er prüft den Datenparser, speichert die Termine, erstellt die Kalenderdatei und veröffentlicht die App neu.</p>
+<p>Bei Netzfehlern oder auffällig unvollständigen Daten bleiben die bisherigen Termine erhalten. Die App zeigt eine Warnung. Im Repository unter <strong>Actions</strong> steht die genaue Fehlermeldung. Du musst nicht jeden Tag selbst Dateien hochladen. Kontrolliere gelegentlich den Datenstand und die Actions-Ansicht. GitHub kann Zeitpläne in öffentlichen Repositories nach 60 Tagen ohne Aktivität deaktivieren; dann den Zeitplan wieder aktivieren oder einen manuellen Lauf anstoßen und die Actions-Anzeige prüfen.</p>
+<h2>Wenn etwas nicht klappt</h2>
+<table>
+<thead>
+<tr>
+<th>Beobachtung</th>
+<th>Lösung</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>Unter Actions ist kein Workflow sichtbar</td>
+<td>Unter Code prüfen, ob <code>.github/workflows/update-and-deploy.yml</code> auf <code>main</code> liegt. Schritt 3 nachholen. Datei darf nicht <code>.txt</code> heißen.</td>
+</tr>
+<tr>
+<td>„Run workflow“ fehlt</td>
+<td>Den konkreten Workflow links auswählen; prüfen, ob die Datei auf <code>main</code> liegt und du mit dem Besitzerkonto angemeldet bist.</td>
+</tr>
+<tr>
+<td>Fehler bei „Configure GitHub Pages“, „Get Pages site“ oder „Not Found“</td>
+<td>Settings → Pages → Source <strong>GitHub Actions</strong> einstellen, dann einen neuen Lauf starten.</td>
+</tr>
+<tr>
+<td>Fehler bei <code>git push</code>, etwa 403 oder protected branch</td>
+<td>Bot-Schreibrechte bzw. Branchschutz prüfen. Keine fremden Tokens eintragen.</td>
+</tr>
+<tr>
+<td>Tests finden <code>site</code> oder <code>scripts</code> nicht</td>
+<td>Ordner liegen eine Ebene zu tief oder wurden flach hochgeladen. Repository-Wurzel muss direkt <code>site</code>, <code>scripts</code>, <code>tests</code>, <code>.github</code> enthalten.</td>
+</tr>
+<tr>
+<td>App zeigt 404</td>
+<td>Zuerst auf grünen deploy-Job warten. Die genaue App-Adresse mit <code>/sub-events/</code> verwenden. Keine eigene Zusatzdatei unter einem zusätzlichen Paketordner ablegen.</td>
+</tr>
+<tr>
+<td>App ist leer, Datenstand fehlt</td>
+<td>Prüfen, ob <code>site/data/events.json</code> und <code>site/data/status.json</code> vorhanden sind. Browser neu laden, Filter zurücksetzen und Internet prüfen.</td>
+</tr>
+<tr>
+<td>Warnung „Abruf fehlgeschlagen“</td>
+<td>Alte Daten bleiben nutzbar. Unter Actions die Abrufwarnung lesen und später erneut starten. Bei geändertem Seitenaufbau Datenabruf anpassen lassen.</td>
+</tr>
+<tr>
+<td>Beim Ort steht „siehe Originaltermin“</td>
+<td>Die Quelle enthält für diesen Termin keinen auswertbaren Ort. Über „Originaltermin“ Details und ggf. Anmeldung prüfen.</td>
+</tr>
+<tr>
+<td>Termine erscheinen doppelt</td>
+<td>Prüfen, ob derselbe Feed mehrfach abonniert oder zusätzlich als Datei importiert wurde. Nur ein Abo verwenden.</td>
+</tr>
+<tr>
+<td>Nach dem Update noch alte Darstellung</td>
+<td>Browser aktualisieren; falls nötig Website-Daten dieser App löschen und neu öffnen. Das entfernt nur den lokalen Zwischenspeicher.</td>
+</tr>
+</tbody></table>
+<h2>Dateistruktur zum Vergleichen</h2>
+<pre><code class="language-text">Repository-Wurzel (main)
+├── .github/
+│   └── workflows/
+│       └── update-and-deploy.yml
+├── site/
+│   ├── index.html
+│   ├── app.js, calendar.js, style.css, sw.js
+│   ├── manifest.webmanifest
+│   ├── events.ics
+│   ├── data/
+│   │   ├── events.json
+│   │   └── status.json
+│   └── icons/ (3 PNG-Dateien)
+├── scripts/update_events.py
+├── tests/ (Tests und fixtures/alle-events.html)
+├── README.md
+├── ANLEITUNG-PC.md
+├── ANLEITUNG-PC.html
+└── PRUEFBERICHT.md
+</code></pre>
+<p>Quelle des Programms: <a href="https://kalender.subonline.org/events-im-zentrum/">https://kalender.subonline.org/events-im-zentrum/</a>. Die App ist unabhängig; verbindliche Angaben, Änderungen und Tickets bitte beim Veranstalter prüfen. Die Datenschnittstelle kann sich ändern und dann Wartung benötigen.</p>
+</main></body></html>

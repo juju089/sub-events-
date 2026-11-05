@@ -1,0 +1,27 @@
+<!doctype html>
+<html lang="de">
+<head>
+  <meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#f6baff"><meta name="description" content="Öffentliche Termine des Sub e. V. München finden, filtern und im Kalender abonnieren.">
+  <link rel="manifest" href="./manifest.webmanifest"><link rel="icon" href="./icons/icon-192.png"><link rel="apple-touch-icon" href="./icons/apple-touch-icon.png">
+  <link rel="stylesheet" href="./style.css"><script src="./calendar.js" defer></script><script src="./app.js" defer></script>
+  <title>Sub · Dein nächster Treffpunkt</title>
+</head>
+<body>
+<header><a class="wordmark" href="./" aria-label="Sub Startseite">SUB<span>MÜNCHEN / TERMINE</span></a><a class="official" href="https://kalender.subonline.org/events-im-zentrum/" target="_blank" rel="noopener">Offizielle Seite ↗</a></header>
+<main>
+  <section class="hero"><div class="eyebrow">MÜNCHEN · SCHWUL-QUEERES ZENTRUM</div><h1>Platz für dich.<br><span>Zeit für uns.</span></h1><p>Gruppen, Kultur und Begegnungen. Finde deinen nächsten Termin im Sub und bei Mittendrin.</p><a class="button primary" href="#kalender">Kalender abonnieren <span>↗</span></a><div class="orbit" aria-hidden="true">S<span>OFFEN & QUEER<br>MÜNCHEN</span></div></section>
+  <section class="programme" aria-labelledby="program-title">
+    <div class="section-head"><h2 id="program-title">Wir sehen uns.</h2><button id="refresh" type="button">Aktualisieren ↻</button></div>
+    <p id="status" class="status" role="status">Veranstaltungen werden geladen …</p>
+    <div class="filters"><label class="search">Suche<input id="query" type="search" placeholder="Gruppe, Kultur, Begegnung …"></label><label>Zeitraum<select id="range"><option value="all">Alle kommenden</option><option value="today">Heute</option><option value="week">Nächste 7 Tage</option><option value="month">Nächste 30 Tage</option><option value="past">Vergangene</option></select></label></div>
+    <div id="categories" class="chips" role="group" aria-label="Veranstaltungsart"></div>
+    <div class="result-line"><span id="count" aria-live="polite"></span><button id="reset" type="button">Filter zurücksetzen</button></div>
+    <div id="events" aria-live="polite"></div>
+    <noscript>Bitte JavaScript aktivieren. Den Kalender kannst du auch direkt als <a href="./events.ics">ICS herunterladen</a>.</noscript>
+  </section>
+  <section id="kalender" class="calendar"><div class="eyebrow">DEIN KALENDER. DEINE COMMUNITY.</div><h2>Einmal abonnieren.<br>Immer verbunden.</h2><p>Öffentliche Termine der nächsten 180 Tage kommen automatisch in deinen Kalender. Wie oft aktualisiert wird, entscheidet deine Kalender-App.</p><div class="actions"><a id="subscribe" class="button primary" href="webcal://juju089.github.io/sub-events/events.ics">Kalender abonnieren ↗</a><a class="button secondary" href="./events.ics" download="sub.ics">ICS herunterladen ↓</a></div><label class="feed-label">Abo-Adresse (HTTPS)<input id="feed" readonly aria-label="Kalender-Abo-Adresse"></label><button id="copy" type="button">Adresse kopieren</button><p id="copy-status" role="status"></p><details><summary>So klappt’s auf iPhone, Android und PC</summary><p>iPhone: „Kalender abonnieren“ öffnen und das Abo bestätigen. Falls nötig: Kalender-App → Kalender → Hinzufügen → Kalenderabonnement hinzufügen; die HTTPS-Adresse einsetzen. Android / Google Kalender: Am PC Google Kalender öffnen → Weitere Kalender + → Per URL → HTTPS-Adresse einfügen. Outlook: Kalender hinzufügen → Aus dem Internet abonnieren. Ein ICS-Download importiert nur den aktuellen Stand und ist kein Abo.</p></details></section>
+  <section class="install"><h2>Dein Shortcut zur Community.</h2><p>iPhone: In Safari öffnen → Teilen → Zum Home-Bildschirm. Android: Im Browser-Menü „App installieren“ oder „Zum Startbildschirm“. Nach dem ersten Online-Aufruf sind die zuletzt geladenen Termine auch offline verfügbar.</p><button id="install" hidden class="button secondary" type="button">App installieren</button></section>
+</main>
+<footer><strong>SUB / MÜNCHEN</strong><p>Unabhängige Veranstaltungsübersicht, keine offizielle App des Sub e. V.. Angaben ohne Gewähr. Zeiten, Treffpunkte, Änderungen und Anmeldung bitte beim Veranstalter prüfen.</p><a href="https://kalender.subonline.org/events-im-zentrum/">Quelle: Sub</a> · <a href="https://subonline.org/impressum/">Sub / Impressum</a><p>Keine Werbung, kein Tracking. Dein nächster Treffpunkt wartet.</p></footer>
+</body></html>

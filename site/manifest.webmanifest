@@ -1,0 +1,16 @@
+{
+  "id": "./",
+  "name": "Sub e. V. München · Veranstaltungen",
+  "short_name": "Sub",
+  "description": "Dein nächster Treffpunkt beim Sub e. V. München",
+  "lang": "de",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#16121e",
+  "theme_color": "#f6baff",
+  "icons": [
+    {"src":"./icons/icon-192.png","sizes":"192x192","type":"image/png","purpose":"any maskable"},
+    {"src":"./icons/icon-512.png","sizes":"512x512","type":"image/png","purpose":"any maskable"}
+  ]
+}
