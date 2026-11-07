@@ -1,57 +1,9 @@
 {
   "source": "https://kalender.subonline.org/events-im-zentrum/",
-  "updatedAt": "2026-11-06T06:37:02Z",
-  "fromDate": "2026-11-06",
-  "throughDate": "2027-05-04",
+  "updatedAt": "2026-11-07T06:26:12Z",
+  "fromDate": "2026-11-07",
+  "throughDate": "2027-05-05",
   "events": [
-    {
-      "id": "sub-271582@sub-events",
-      "date": "2026-11-06",
-      "title": "QTies",
-      "description": "",
-      "start": "19:00",
-      "end": "21:00",
-      "endDate": "2026-11-06",
-      "allDay": false,
-      "startUtc": "2026-11-06T18:00:00Z",
-      "endUtc": "2026-11-06T20:00:00Z",
-      "location": "Ort siehe Originaltermin",
-      "category": "Im Zentrum",
-      "ticket": null,
-      "source": "https://kalender.subonline.org/event/qties-11/"
-    },
-    {
-      "id": "sub-271581@sub-events",
-      "date": "2026-11-06",
-      "title": "QueerBw e.V. – Regio Süd",
-      "description": "",
-      "start": "19:30",
-      "end": "21:30",
-      "endDate": "2026-11-06",
-      "allDay": false,
-      "startUtc": "2026-11-06T18:30:00Z",
-      "endUtc": "2026-11-06T20:30:00Z",
-      "location": "Ort siehe Originaltermin",
-      "category": "Im Zentrum",
-      "ticket": null,
-      "source": "https://kalender.subonline.org/event/queerbw-e-v-regio-sud-6/"
-    },
-    {
-      "id": "sub-271580@sub-events",
-      "date": "2026-11-06",
-      "title": "VIVA TS Treffen",
-      "description": "",
-      "start": "20:00",
-      "end": "22:30",
-      "endDate": "2026-11-06",
-      "allDay": false,
-      "startUtc": "2026-11-06T19:00:00Z",
-      "endUtc": "2026-11-06T21:30:00Z",
-      "location": "Ort siehe Originaltermin",
-      "category": "Im Zentrum",
-      "ticket": null,
-      "source": "https://kalender.subonline.org/event/viva-ts-treffen-48/"
-    },
     {
       "id": "sub-272337@sub-events",
       "date": "2026-11-10",
@@ -67,6 +19,22 @@
       "category": "Im Zentrum",
       "ticket": null,
       "source": "https://kalender.subonline.org/event/gruppe-fur-schwule-bisexuelle-manner-mit-depressions-und-burnouterfahrung-37/"
+    },
+    {
+      "id": "sub-288649@sub-events",
+      "date": "2026-11-11",
+      "title": "Faschings-Opening Party mit Franky",
+      "description": "Kommt gern verkleidet <3",
+      "start": "19:00",
+      "end": "23:00",
+      "endDate": "2026-11-11",
+      "allDay": false,
+      "startUtc": "2026-11-11T18:00:00Z",
+      "endUtc": "2026-11-11T22:00:00Z",
+      "location": "Ort siehe Originaltermin",
+      "category": "Im Zentrum",
+      "ticket": null,
+      "source": "https://kalender.subonline.org/event/faschings-opening-party-mit-franky/"
     },
     {
       "id": "sub-272426@sub-events",
@@ -451,6 +419,22 @@
       "category": "Im Zentrum",
       "ticket": null,
       "source": "https://kalender.subonline.org/event/cercle-francais-47/"
+    },
+    {
+      "id": "sub-288651@sub-events",
+      "date": "2026-11-20",
+      "title": "ESC-Nachlese 6er Jahrgänge",
+      "description": "Von und mit Franky",
+      "start": "19:00",
+      "end": "23:30",
+      "endDate": "2026-11-20",
+      "allDay": false,
+      "startUtc": "2026-11-20T18:00:00Z",
+      "endUtc": "2026-11-20T22:30:00Z",
+      "location": "Ort siehe Originaltermin",
+      "category": "Im Zentrum",
+      "ticket": null,
+      "source": "https://kalender.subonline.org/event/esc-nachlese-6er-jahrgange/"
     },
     {
       "id": "sub-273740@sub-events",
@@ -2995,6 +2979,38 @@
       "category": "Im Zentrum",
       "ticket": null,
       "source": "https://kalender.subonline.org/event/cercle-francais-57/"
+    },
+    {
+      "id": "sub-288840@sub-events",
+      "date": "2027-02-05",
+      "title": "QueerBw e.V. – Regio Süd",
+      "description": "",
+      "start": "19:30",
+      "end": "21:30",
+      "endDate": "2027-02-05",
+      "allDay": false,
+      "startUtc": "2027-02-05T18:30:00Z",
+      "endUtc": "2027-02-05T20:30:00Z",
+      "location": "Ort siehe Originaltermin",
+      "category": "Im Zentrum",
+      "ticket": null,
+      "source": "https://kalender.subonline.org/event/queerbw-e-v-regio-sud-9/"
+    },
+    {
+      "id": "sub-288839@sub-events",
+      "date": "2027-02-05",
+      "title": "VIVA TS Treffen",
+      "description": "",
+      "start": "20:00",
+      "end": "22:30",
+      "endDate": "2027-02-05",
+      "allDay": false,
+      "startUtc": "2027-02-05T19:00:00Z",
+      "endUtc": "2027-02-05T21:30:00Z",
+      "location": "Ort siehe Originaltermin",
+      "category": "Im Zentrum",
+      "ticket": null,
+      "source": "https://kalender.subonline.org/event/viva-ts-treffen-60/"
     }
   ]
 }
