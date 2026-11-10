@@ -1,5 +1,5 @@
 {
-  "ok": true,
-  "checkedAt": "2026-11-09T06:39:02Z",
-  "message": "Abruf erfolgreich"
+  "ok": false,
+  "checkedAt": "2026-11-10T06:31:10Z",
+  "message": "Abruf fehlgeschlagen. Bisheriger Datenstand bleibt erhalten."
 }
