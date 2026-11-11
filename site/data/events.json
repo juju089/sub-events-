@@ -1,25 +1,9 @@
 {
   "source": "https://kalender.subonline.org/events-im-zentrum/",
-  "updatedAt": "2026-11-09T06:39:02Z",
-  "fromDate": "2026-11-09",
-  "throughDate": "2027-05-07",
+  "updatedAt": "2026-11-11T06:33:37Z",
+  "fromDate": "2026-11-11",
+  "throughDate": "2027-05-09",
   "events": [
-    {
-      "id": "sub-272337@sub-events",
-      "date": "2026-11-10",
-      "title": "Gruppe für schwule/bisexuelle Männer* mit Depressions- und Burnouterfahrung",
-      "description": "",
-      "start": "19:30",
-      "end": "21:00",
-      "endDate": "2026-11-10",
-      "allDay": false,
-      "startUtc": "2026-11-10T18:30:00Z",
-      "endUtc": "2026-11-10T20:00:00Z",
-      "location": "Ort siehe Originaltermin",
-      "category": "Im Zentrum",
-      "ticket": null,
-      "source": "https://kalender.subonline.org/event/gruppe-fur-schwule-bisexuelle-manner-mit-depressions-und-burnouterfahrung-37/"
-    },
     {
       "id": "sub-288649@sub-events",
       "date": "2026-11-11",
@@ -867,6 +851,22 @@
       "category": "Im Zentrum",
       "ticket": null,
       "source": "https://kalender.subonline.org/event/schwule-und-bisexuelle-vater-und-ehemanner-8/"
+    },
+    {
+      "id": "sub-289273@sub-events",
+      "date": "2026-12-03",
+      "title": "Vernissage “Refugee-Counseling”",
+      "description": "",
+      "start": "19:00",
+      "end": "22:00",
+      "endDate": "2026-12-03",
+      "allDay": false,
+      "startUtc": "2026-12-03T18:00:00Z",
+      "endUtc": "2026-12-03T21:00:00Z",
+      "location": "Ort siehe Originaltermin",
+      "category": "Im Zentrum",
+      "ticket": null,
+      "source": "https://kalender.subonline.org/event/vernissage-refugee-counseling/"
     },
     {
       "id": "sub-275406@sub-events",
@@ -3027,6 +3027,22 @@
       "category": "Im Zentrum",
       "ticket": null,
       "source": "https://kalender.subonline.org/event/kaffee-kuchen-31/"
+    },
+    {
+      "id": "sub-289641@sub-events",
+      "date": "2027-02-09",
+      "title": "Gruppe für schwule/bisexuelle Männer* mit Depressions- und Burnouterfahrung",
+      "description": "",
+      "start": "19:30",
+      "end": "21:00",
+      "endDate": "2027-02-09",
+      "allDay": false,
+      "startUtc": "2027-02-09T18:30:00Z",
+      "endUtc": "2027-02-09T20:00:00Z",
+      "location": "Ort siehe Originaltermin",
+      "category": "Im Zentrum",
+      "ticket": null,
+      "source": "https://kalender.subonline.org/event/gruppe-fur-schwule-bisexuelle-manner-mit-depressions-und-burnouterfahrung-37/"
     }
   ]
 }
