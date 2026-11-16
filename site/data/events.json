@@ -1,25 +1,9 @@
 {
   "source": "https://kalender.subonline.org/events-im-zentrum/",
-  "updatedAt": "2026-11-15T06:30:01Z",
-  "fromDate": "2026-11-15",
-  "throughDate": "2027-05-13",
+  "updatedAt": "2026-11-16T07:15:56Z",
+  "fromDate": "2026-11-16",
+  "throughDate": "2027-05-14",
   "events": [
-    {
-      "id": "sub-272770@sub-events",
-      "date": "2026-11-15",
-      "title": "Kaffee & Kuchen",
-      "description": "Kaffee & Kuchen (am 1. und 3. Sonntag im Monat)",
-      "start": "15:00",
-      "end": "19:00",
-      "endDate": "2026-11-15",
-      "allDay": false,
-      "startUtc": "2026-11-15T14:00:00Z",
-      "endUtc": "2026-11-15T18:00:00Z",
-      "location": "Sub – Schwules Kommunikations- und Kulturzentrum München e.V., Müllerstraße 14, 80469 München, Deutschland",
-      "category": "Im Zentrum",
-      "ticket": null,
-      "source": "https://kalender.subonline.org/event/kaffee-kuchen-26/"
-    },
     {
       "id": "sub-273109@sub-events",
       "date": "2026-11-17",
