@@ -1,25 +1,9 @@
 {
   "source": "https://kalender.subonline.org/events-im-zentrum/",
-  "updatedAt": "2026-11-22T06:32:08Z",
-  "fromDate": "2026-11-22",
-  "throughDate": "2027-05-20",
+  "updatedAt": "2026-11-23T06:45:56Z",
+  "fromDate": "2026-11-23",
+  "throughDate": "2027-05-21",
   "events": [
-    {
-      "id": "sub-273905@sub-events",
-      "date": "2026-11-22",
-      "title": "Yoga",
-      "description": "",
-      "start": "17:00",
-      "end": "19:00",
-      "endDate": "2026-11-22",
-      "allDay": false,
-      "startUtc": "2026-11-22T16:00:00Z",
-      "endUtc": "2026-11-22T18:00:00Z",
-      "location": "Ort siehe Originaltermin",
-      "category": "Im Zentrum",
-      "ticket": null,
-      "source": "https://kalender.subonline.org/event/yoga-6/"
-    },
     {
       "id": "sub-274129@sub-events",
       "date": "2026-11-24",
@@ -2963,6 +2947,22 @@
       "category": "Im Zentrum",
       "ticket": null,
       "source": "https://kalender.subonline.org/event/viva-ts-treffen-62/"
+    },
+    {
+      "id": "sub-294379@sub-events",
+      "date": "2027-02-21",
+      "title": "Kaffee & Kuchen",
+      "description": "Kaffee & Kuchen (am 1. und 3. Sonntag im Monat)",
+      "start": "15:00",
+      "end": "19:00",
+      "endDate": "2027-02-21",
+      "allDay": false,
+      "startUtc": "2027-02-21T14:00:00Z",
+      "endUtc": "2027-02-21T18:00:00Z",
+      "location": "Sub – Schwules Kommunikations- und Kulturzentrum München e.V., Müllerstraße 14, 80469 München, Deutschland",
+      "category": "Im Zentrum",
+      "ticket": null,
+      "source": "https://kalender.subonline.org/event/kaffee-kuchen-26/"
     }
   ]
 }
