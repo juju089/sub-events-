@@ -6,75 +6,8 @@ METHOD:PUBLISH
 X-WR-CALNAME:Sub e. V. München
 X-WR-TIMEZONE:Europe/Berlin
 BEGIN:VEVENT
-UID:sub-274247@sub-events
-DTSTAMP:20261125T063204Z
-DTSTART:20261125T180000Z
-DTEND:20261125T193000Z
-SUMMARY:Post-Chemsex-Gruppe
-DESCRIPTION:\nOriginaltermin: https://kalender.subonline.org/event/post-che
- msex-gruppe-29/
-LOCATION:Ort siehe Originaltermin
-URL:https://kalender.subonline.org/event/post-chemsex-gruppe-29/
-END:VEVENT
-BEGIN:VEVENT
-UID:sub-274245@sub-events
-DTSTAMP:20261125T063204Z
-DTSTART:20261125T180000Z
-DTEND:20261125T200000Z
-SUMMARY:Queer Uferlos Redaktion
-DESCRIPTION:\nOriginaltermin: https://kalender.subonline.org/event/queer-uf
- erlos-redaktion-12/
-LOCATION:Ort siehe Originaltermin
-URL:https://kalender.subonline.org/event/queer-uferlos-redaktion-12/
-END:VEVENT
-BEGIN:VEVENT
-UID:sub-274248@sub-events
-DTSTAMP:20261125T063204Z
-DTSTART:20261125T180000Z
-DTEND:20261125T210000Z
-SUMMARY:Schach im Sub
-DESCRIPTION:\nOriginaltermin: https://kalender.subonline.org/event/schach-i
- m-sub-60/
-LOCATION:Ort siehe Originaltermin
-URL:https://kalender.subonline.org/event/schach-im-sub-60/
-END:VEVENT
-BEGIN:VEVENT
-UID:sub-274246@sub-events
-DTSTAMP:20261125T063204Z
-DTSTART:20261125T183000Z
-DTEND:20261125T213000Z
-SUMMARY:Brettspielgruppe
-DESCRIPTION:\nOriginaltermin: https://kalender.subonline.org/event/brettspi
- elgruppe-58/
-LOCATION:Ort siehe Originaltermin
-URL:https://kalender.subonline.org/event/brettspielgruppe-58/
-END:VEVENT
-BEGIN:VEVENT
-UID:sub-274244@sub-events
-DTSTAMP:20261125T063204Z
-DTSTART:20261125T183000Z
-DTEND:20261125T200000Z
-SUMMARY:Selbsthilfe Alkoholabhängigkeit. Eine Gruppe vom Blauen Kreuz Mün
- chen e.V. im Sub für schwule\, bisexuelle und queere Männer
-DESCRIPTION:In der Selbsthilfegruppe Schwule\, bisexuelle und queere Männe
- r mit Alkoholabhängigkeit haben wir die Möglichkeit uns mit anderen betr
- offenen Männern austauschen. Durch das Teilen von wertvollen Erfahrungen 
- und eigenen kreativen Ideen können wir uns gegenseitig unterstützen und 
- mehr Lebensqualität erreichen. Du musst es nicht schon komplett geschafft
-  haben\, trocken oder kontrolliert zu sein. Die Gruppe findet in Kooperati
- on mit dem Blauen Kreuz München e.V. statt. . Wann: Die Gruppe trifft sic
- h Mittwochs immer um 19.30.Es ist keine Voranmeldung nötig.\nOriginalterm
- in: https://kalender.subonline.org/event/selbsthilfe-alkoholabhangigkeit-e
- ine-gruppe-vom-blauen-kreuz-munchen-e-v-im-sub-fur-schwule-bisexuelle-und-
- queere-manner-19/
-LOCATION:Ort siehe Originaltermin
-URL:https://kalender.subonline.org/event/selbsthilfe-alkoholabhangigkeit-ei
- ne-gruppe-vom-blauen-kreuz-munchen-e-v-im-sub-fur-schwule-bisexuelle-und-q
- ueere-manner-19/
-END:VEVENT
-BEGIN:VEVENT
 UID:sub-274416@sub-events
-DTSTAMP:20261125T063204Z
+DTSTAMP:20261126T063310Z
 DTSTART:20261126T181500Z
 DTEND:20261126T211500Z
 SUMMARY:Gay & Grey
@@ -85,7 +18,7 @@ URL:https://kalender.subonline.org/event/gay-grey-54/
 END:VEVENT
 BEGIN:VEVENT
 UID:sub-274418@sub-events
-DTSTAMP:20261125T063204Z
+DTSTAMP:20261126T063310Z
 DTSTART:20261126T183000Z
 DTEND:20261126T200000Z
 SUMMARY:Deutsch Konversationskurs
@@ -96,7 +29,7 @@ URL:https://kalender.subonline.org/event/deutsch-konversationskurs-42/
 END:VEVENT
 BEGIN:VEVENT
 UID:sub-274417@sub-events
-DTSTAMP:20261125T063204Z
+DTSTAMP:20261126T063310Z
 DTSTART:20261126T190000Z
 DTEND:20261126T220000Z
 SUMMARY:Cercle Francais
@@ -107,7 +40,7 @@ URL:https://kalender.subonline.org/event/cercle-francais-48/
 END:VEVENT
 BEGIN:VEVENT
 UID:sub-274645@sub-events
-DTSTAMP:20261125T063204Z
+DTSTAMP:20261126T063310Z
 DTSTART:20261127T180000Z
 DTEND:20261127T210000Z
 SUMMARY:Queer Bipocs Munich
@@ -118,7 +51,7 @@ URL:https://kalender.subonline.org/event/queer-bipocs-munich-12/
 END:VEVENT
 BEGIN:VEVENT
 UID:sub-274646@sub-events
-DTSTAMP:20261125T063204Z
+DTSTAMP:20261126T063310Z
 DTSTART:20261127T190000Z
 DTEND:20261127T213000Z
 SUMMARY:VIVA TS Treffen
@@ -129,7 +62,7 @@ URL:https://kalender.subonline.org/event/viva-ts-treffen-51/
 END:VEVENT
 BEGIN:VEVENT
 UID:sub-274929@sub-events
-DTSTAMP:20261125T063204Z
+DTSTAMP:20261126T063310Z
 DTSTART:20261129T140000Z
 DTEND:20261129T180000Z
 SUMMARY:Advents – Kaffee & Kuchen
@@ -140,7 +73,7 @@ URL:https://kalender.subonline.org/event/advents-kaffee-kuchen/
 END:VEVENT
 BEGIN:VEVENT
 UID:sub-287586@sub-events
-DTSTAMP:20261125T063204Z
+DTSTAMP:20261126T063310Z
 DTSTART:20261129T170000Z
 DTEND:20261129T173000Z
 SUMMARY:Lesung: Rosa ist die Welt mit tiefblauen Flecken
@@ -154,7 +87,7 @@ URL:https://kalender.subonline.org/event/lesung-rosa-ist-die-welt-mit-tiefb
 END:VEVENT
 BEGIN:VEVENT
 UID:sub-275237@sub-events
-DTSTAMP:20261125T063204Z
+DTSTAMP:20261126T063310Z
 DTSTART:20261201T170000Z
 DTEND:20261201T210000Z
 SUMMARY:Pink Christmas & Mittendrin Meet&Eat im Café Glück
@@ -169,7 +102,7 @@ URL:https://kalender.subonline.org/event/pink-christmas-mittendrin-meeteat-
 END:VEVENT
 BEGIN:VEVENT
 UID:sub-275173@sub-events
-DTSTAMP:20261125T063204Z
+DTSTAMP:20261126T063310Z
 DTSTART:20261201T180000Z
 DTEND:20261201T193000Z
 SUMMARY:Regenbogenväter
@@ -194,7 +127,7 @@ URL:https://kalender.subonline.org/event/regenbogenvater-5/
 END:VEVENT
 BEGIN:VEVENT
 UID:sub-275172@sub-events
-DTSTAMP:20261125T063204Z
+DTSTAMP:20261126T063310Z
 DTSTART:20261201T183000Z
 DTEND:20261201T200000Z
 SUMMARY:Gruppe für schwule/bisexuelle Männer* mit Depressions- und Burnou
@@ -207,7 +140,7 @@ URL:https://kalender.subonline.org/event/gruppe-fur-schwule-bisexuelle-mann
 END:VEVENT
 BEGIN:VEVENT
 UID:sub-275272@sub-events
-DTSTAMP:20261125T063204Z
+DTSTAMP:20261126T063310Z
 DTSTART:20261202T180000Z
 DTEND:20261202T193000Z
 SUMMARY:Chemsex Control Gruppe
@@ -232,7 +165,7 @@ URL:https://kalender.subonline.org/event/chemsex-control-gruppe-28/
 END:VEVENT
 BEGIN:VEVENT
 UID:sub-275275@sub-events
-DTSTAMP:20261125T063204Z
+DTSTAMP:20261126T063310Z
 DTSTART:20261202T180000Z
 DTEND:20261202T220000Z
 SUMMARY:International Queer Stammtisch
@@ -243,7 +176,7 @@ URL:https://kalender.subonline.org/event/international-queer-stammtisch-15/
 END:VEVENT
 BEGIN:VEVENT
 UID:sub-275274@sub-events
-DTSTAMP:20261125T063204Z
+DTSTAMP:20261126T063310Z
 DTSTART:20261202T180000Z
 DTEND:20261202T210000Z
 SUMMARY:Schach im Sub
@@ -254,7 +187,7 @@ URL:https://kalender.subonline.org/event/schach-im-sub-61/
 END:VEVENT
 BEGIN:VEVENT
 UID:sub-275273@sub-events
-DTSTAMP:20261125T063204Z
+DTSTAMP:20261126T063310Z
 DTSTART:20261202T180000Z
 DTEND:20261202T200000Z
 SUMMARY:Schafkopfen im Sub
@@ -268,7 +201,7 @@ URL:https://kalender.subonline.org/event/schafkopfen-im-sub-26/
 END:VEVENT
 BEGIN:VEVENT
 UID:sub-275276@sub-events
-DTSTAMP:20261125T063204Z
+DTSTAMP:20261126T063310Z
 DTSTART:20261202T183000Z
 DTEND:20261202T213000Z
 SUMMARY:Brettspielgruppe
@@ -279,7 +212,7 @@ URL:https://kalender.subonline.org/event/brettspielgruppe-59/
 END:VEVENT
 BEGIN:VEVENT
 UID:sub-275278@sub-events
-DTSTAMP:20261125T063204Z
+DTSTAMP:20261126T063310Z
 DTSTART:20261202T183000Z
 DTEND:20261202T200000Z
 SUMMARY:Selbsthilfe Alkoholabhängigkeit. Eine Gruppe vom Blauen Kreuz Mün
@@ -302,7 +235,7 @@ URL:https://kalender.subonline.org/event/selbsthilfe-alkoholabhangigkeit-ei
 END:VEVENT
 BEGIN:VEVENT
 UID:sub-275277@sub-events
-DTSTAMP:20261125T063204Z
+DTSTAMP:20261126T063310Z
 DTSTART:20261202T190000Z
 DTEND:20261202T210000Z
 SUMMARY:Schwule und bisexuelle Väter und Ehemänner
@@ -314,7 +247,7 @@ URL:https://kalender.subonline.org/event/schwule-und-bisexuelle-vater-und-e
 END:VEVENT
 BEGIN:VEVENT
 UID:sub-289273@sub-events
-DTSTAMP:20261125T063204Z
+DTSTAMP:20261126T063310Z
 DTSTART:20261203T180000Z
 DTEND:20261203T210000Z
 SUMMARY:Vernissage “Refugee-Counseling”
@@ -325,7 +258,7 @@ URL:https://kalender.subonline.org/event/vernissage-refugee-counseling/
 END:VEVENT
 BEGIN:VEVENT
 UID:sub-275406@sub-events
-DTSTAMP:20261125T063204Z
+DTSTAMP:20261126T063310Z
 DTSTART:20261203T181500Z
 DTEND:20261203T211500Z
 SUMMARY:Gay & Grey
@@ -336,7 +269,7 @@ URL:https://kalender.subonline.org/event/gay-grey-55/
 END:VEVENT
 BEGIN:VEVENT
 UID:sub-275405@sub-events
-DTSTAMP:20261125T063204Z
+DTSTAMP:20261126T063310Z
 DTSTART:20261203T181500Z
 DTEND:20261203T200000Z
 SUMMARY:Queeramnesty
@@ -348,7 +281,7 @@ URL:https://kalender.subonline.org/event/queeramnesty-10/
 END:VEVENT
 BEGIN:VEVENT
 UID:sub-275404@sub-events
-DTSTAMP:20261125T063204Z
+DTSTAMP:20261126T063310Z
 DTSTART:20261203T183000Z
 DTEND:20261203T200000Z
 SUMMARY:Deutsch Konversationskurs
@@ -359,7 +292,7 @@ URL:https://kalender.subonline.org/event/deutsch-konversationskurs-34/
 END:VEVENT
 BEGIN:VEVENT
 UID:sub-275403@sub-events
-DTSTAMP:20261125T063204Z
+DTSTAMP:20261126T063310Z
 DTSTART:20261203T190000Z
 DTEND:20261203T220000Z
 SUMMARY:Cercle Francais
@@ -370,7 +303,7 @@ URL:https://kalender.subonline.org/event/cercle-francais-49/
 END:VEVENT
 BEGIN:VEVENT
 UID:sub-275563@sub-events
-DTSTAMP:20261125T063204Z
+DTSTAMP:20261126T063310Z
 DTSTART:20261204T190000Z
 DTEND:20261204T213000Z
 SUMMARY:VIVA TS Treffen
@@ -381,7 +314,7 @@ URL:https://kalender.subonline.org/event/viva-ts-treffen-52/
 END:VEVENT
 BEGIN:VEVENT
 UID:sub-275801@sub-events
-DTSTAMP:20261125T063204Z
+DTSTAMP:20261126T063310Z
 DTSTART:20261206T140000Z
 DTEND:20261206T180000Z
 SUMMARY:Advents – Kaffee & Kuchen
@@ -392,7 +325,7 @@ URL:https://kalender.subonline.org/event/advents-kaffee-kuchen-2/
 END:VEVENT
 BEGIN:VEVENT
 UID:sub-275800@sub-events
-DTSTAMP:20261125T063204Z
+DTSTAMP:20261126T063310Z
 DTSTART:20261206T140000Z
 DTEND:20261206T180000Z
 SUMMARY:Kaffee & Kuchen
@@ -404,7 +337,7 @@ URL:https://kalender.subonline.org/event/kaffee-kuchen-27/
 END:VEVENT
 BEGIN:VEVENT
 UID:sub-280463@sub-events
-DTSTAMP:20261125T063204Z
+DTSTAMP:20261126T063310Z
 DTSTART:20261206T143000Z
 DTEND:20261206T180000Z
 SUMMARY:AG Queere Geschichte München
@@ -415,7 +348,7 @@ URL:https://kalender.subonline.org/event/ag-queere-geschichte-munchen-2/
 END:VEVENT
 BEGIN:VEVENT
 UID:sub-276014@sub-events
-DTSTAMP:20261125T063204Z
+DTSTAMP:20261126T063310Z
 DTSTART:20261208T183000Z
 DTEND:20261208T200000Z
 SUMMARY:Gruppe für schwule/bisexuelle Männer* mit Depressions- und Burnou
@@ -428,7 +361,7 @@ URL:https://kalender.subonline.org/event/gruppe-fur-schwule-bisexuelle-mann
 END:VEVENT
 BEGIN:VEVENT
 UID:sub-280556@sub-events
-DTSTAMP:20261125T063204Z
+DTSTAMP:20261126T063310Z
 DTSTART:20261208T183000Z
 DTEND:20261208T210000Z
 SUMMARY:Queer English Book Club
@@ -439,7 +372,7 @@ URL:https://kalender.subonline.org/event/queer-english-book-club-4/
 END:VEVENT
 BEGIN:VEVENT
 UID:sub-276119@sub-events
-DTSTAMP:20261125T063204Z
+DTSTAMP:20261126T063310Z
 DTSTART:20261209T180000Z
 DTEND:20261209T193000Z
 SUMMARY:Post-Chemsex-Gruppe
@@ -450,7 +383,7 @@ URL:https://kalender.subonline.org/event/post-chemsex-gruppe-30/
 END:VEVENT
 BEGIN:VEVENT
 UID:sub-276123@sub-events
-DTSTAMP:20261125T063204Z
+DTSTAMP:20261126T063310Z
 DTSTART:20261209T180000Z
 DTEND:20261209T210000Z
 SUMMARY:Schach im Sub
@@ -461,7 +394,7 @@ URL:https://kalender.subonline.org/event/schach-im-sub-62/
 END:VEVENT
 BEGIN:VEVENT
 UID:sub-276121@sub-events
-DTSTAMP:20261125T063204Z
+DTSTAMP:20261126T063310Z
 DTSTART:20261209T183000Z
 DTEND:20261209T213000Z
 SUMMARY:Brettspielgruppe
@@ -472,7 +405,7 @@ URL:https://kalender.subonline.org/event/brettspielgruppe-60/
 END:VEVENT
 BEGIN:VEVENT
 UID:sub-276122@sub-events
-DTSTAMP:20261125T063204Z
+DTSTAMP:20261126T063310Z
 DTSTART:20261209T183000Z
 DTEND:20261209T203000Z
 SUMMARY:Münchner Positive
@@ -483,7 +416,7 @@ URL:https://kalender.subonline.org/event/munchner-positive-8/
 END:VEVENT
 BEGIN:VEVENT
 UID:sub-276120@sub-events
-DTSTAMP:20261125T063204Z
+DTSTAMP:20261126T063310Z
 DTSTART:20261209T183000Z
 DTEND:20261209T200000Z
 SUMMARY:Selbsthilfe Alkoholabhängigkeit. Eine Gruppe vom Blauen Kreuz Mün
@@ -506,7 +439,7 @@ URL:https://kalender.subonline.org/event/selbsthilfe-alkoholabhangigkeit-ei
 END:VEVENT
 BEGIN:VEVENT
 UID:sub-276217@sub-events
-DTSTAMP:20261125T063204Z
+DTSTAMP:20261126T063310Z
 DTSTART:20261210T181500Z
 DTEND:20261210T211500Z
 SUMMARY:Gay & Grey
@@ -517,7 +450,7 @@ URL:https://kalender.subonline.org/event/gay-grey-56/
 END:VEVENT
 BEGIN:VEVENT
 UID:sub-276216@sub-events
-DTSTAMP:20261125T063204Z
+DTSTAMP:20261126T063310Z
 DTSTART:20261210T183000Z
 DTEND:20261210T200000Z
 SUMMARY:Deutsch Konversationskurs
@@ -528,7 +461,7 @@ URL:https://kalender.subonline.org/event/deutsch-konversationskurs-35/
 END:VEVENT
 BEGIN:VEVENT
 UID:sub-276215@sub-events
-DTSTAMP:20261125T063204Z
+DTSTAMP:20261126T063310Z
 DTSTART:20261210T190000Z
 DTEND:20261210T220000Z
 SUMMARY:Cercle Francais
@@ -539,7 +472,7 @@ URL:https://kalender.subonline.org/event/cercle-francais-50/
 END:VEVENT
 BEGIN:VEVENT
 UID:sub-276347@sub-events
-DTSTAMP:20261125T063204Z
+DTSTAMP:20261126T063310Z
 DTSTART:20261211T160000Z
 DTEND:20261211T190000Z
 SUMMARY:Kostenloser Testabend im Sub
@@ -550,7 +483,7 @@ URL:https://kalender.subonline.org/event/kostenloser-testabend-im-sub-8/
 END:VEVENT
 BEGIN:VEVENT
 UID:sub-276346@sub-events
-DTSTAMP:20261125T063204Z
+DTSTAMP:20261126T063310Z
 DTSTART:20261211T190000Z
 DTEND:20261211T213000Z
 SUMMARY:VIVA TS Treffen
@@ -561,7 +494,7 @@ URL:https://kalender.subonline.org/event/viva-ts-treffen-53/
 END:VEVENT
 BEGIN:VEVENT
 UID:sub-276574@sub-events
-DTSTAMP:20261125T063204Z
+DTSTAMP:20261126T063310Z
 DTSTART;VALUE=DATE:20261213
 DTEND;VALUE=DATE:20261215
 SUMMARY:Christkindlmarkt
@@ -575,7 +508,7 @@ URL:https://kalender.subonline.org/event/christkindlmarkt/
 END:VEVENT
 BEGIN:VEVENT
 UID:sub-276532@sub-events
-DTSTAMP:20261125T063204Z
+DTSTAMP:20261126T063310Z
 DTSTART:20261213T140000Z
 DTEND:20261213T180000Z
 SUMMARY:Advents – Kaffee & Kuchen
@@ -586,7 +519,7 @@ URL:https://kalender.subonline.org/event/advents-kaffee-kuchen-3/
 END:VEVENT
 BEGIN:VEVENT
 UID:sub-276959@sub-events
-DTSTAMP:20261125T063204Z
+DTSTAMP:20261126T063310Z
 DTSTART:20261215T183000Z
 DTEND:20261215T200000Z
 SUMMARY:Gruppe für schwule/bisexuelle Männer* mit Depressions- und Burnou
@@ -599,7 +532,7 @@ URL:https://kalender.subonline.org/event/gruppe-fur-schwule-bisexuelle-mann
 END:VEVENT
 BEGIN:VEVENT
 UID:sub-276958@sub-events
-DTSTAMP:20261125T063204Z
+DTSTAMP:20261126T063310Z
 DTSTART:20261215T183000Z
 DTEND:20261215T213000Z
 SUMMARY:Munich Kiev Queer
@@ -611,7 +544,7 @@ URL:https://kalender.subonline.org/event/munich-kiev-queer-15/
 END:VEVENT
 BEGIN:VEVENT
 UID:sub-276957@sub-events
-DTSTAMP:20261125T063204Z
+DTSTAMP:20261126T063310Z
 DTSTART:20261215T183000Z
 DTEND:20261215T190000Z
 SUMMARY:Sub+ (mit Voranmeldung)
@@ -634,7 +567,7 @@ URL:https://kalender.subonline.org/event/sub-mit-voranmeldung-15/
 END:VEVENT
 BEGIN:VEVENT
 UID:sub-277041@sub-events
-DTSTAMP:20261125T063204Z
+DTSTAMP:20261126T063310Z
 DTSTART:20261216T180000Z
 DTEND:20261216T193000Z
 SUMMARY:Chemsex Control Gruppe
@@ -659,7 +592,7 @@ URL:https://kalender.subonline.org/event/chemsex-control-gruppe-29/
 END:VEVENT
 BEGIN:VEVENT
 UID:sub-277043@sub-events
-DTSTAMP:20261125T063204Z
+DTSTAMP:20261126T063310Z
 DTSTART:20261216T180000Z
 DTEND:20261216T210000Z
 SUMMARY:Schach im Sub
@@ -670,7 +603,7 @@ URL:https://kalender.subonline.org/event/schach-im-sub-63/
 END:VEVENT
 BEGIN:VEVENT
 UID:sub-277039@sub-events
-DTSTAMP:20261125T063204Z
+DTSTAMP:20261126T063310Z
 DTSTART:20261216T180000Z
 DTEND:20261216T200000Z
 SUMMARY:Schafkopfen im Sub
@@ -684,7 +617,7 @@ URL:https://kalender.subonline.org/event/schafkopfen-im-sub-27/
 END:VEVENT
 BEGIN:VEVENT
 UID:sub-277044@sub-events
-DTSTAMP:20261125T063204Z
+DTSTAMP:20261126T063310Z
 DTSTART:20261216T183000Z
 DTEND:20261216T213000Z
 SUMMARY:Brettspielgruppe
@@ -695,7 +628,7 @@ URL:https://kalender.subonline.org/event/brettspielgruppe-61/
 END:VEVENT
 BEGIN:VEVENT
 UID:sub-277042@sub-events
-DTSTAMP:20261125T063204Z
+DTSTAMP:20261126T063310Z
 DTSTART:20261216T183000Z
 DTEND:20261216T200000Z
 SUMMARY:Selbsthilfe Alkoholabhängigkeit. Eine Gruppe vom Blauen Kreuz Mün
@@ -718,7 +651,7 @@ URL:https://kalender.subonline.org/event/selbsthilfe-alkoholabhangigkeit-ei
 END:VEVENT
 BEGIN:VEVENT
 UID:sub-277040@sub-events
-DTSTAMP:20261125T063204Z
+DTSTAMP:20261126T063310Z
 DTSTART:20261216T183000Z
 DTEND:20261216T200000Z
 SUMMARY:S’AG Gruppentreffen
@@ -729,7 +662,7 @@ URL:https://kalender.subonline.org/event/sag-gruppentreffen-14/
 END:VEVENT
 BEGIN:VEVENT
 UID:sub-277274@sub-events
-DTSTAMP:20261125T063204Z
+DTSTAMP:20261126T063310Z
 DTSTART:20261217T180000Z
 DTEND:20261217T210000Z
 SUMMARY:Gay Alpin im DAV – Stammtisch
@@ -740,7 +673,7 @@ URL:https://kalender.subonline.org/event/gay-alpin-im-dav-stammtisch-13/
 END:VEVENT
 BEGIN:VEVENT
 UID:sub-277275@sub-events
-DTSTAMP:20261125T063204Z
+DTSTAMP:20261126T063310Z
 DTSTART:20261217T181500Z
 DTEND:20261217T211500Z
 SUMMARY:Gay & Grey
@@ -751,7 +684,7 @@ URL:https://kalender.subonline.org/event/gay-grey-57/
 END:VEVENT
 BEGIN:VEVENT
 UID:sub-277273@sub-events
-DTSTAMP:20261125T063204Z
+DTSTAMP:20261126T063310Z
 DTSTART:20261217T183000Z
 DTEND:20261217T200000Z
 SUMMARY:Deutsch Konversationskurs
@@ -762,7 +695,7 @@ URL:https://kalender.subonline.org/event/deutsch-konversationskurs-36/
 END:VEVENT
 BEGIN:VEVENT
 UID:sub-277272@sub-events
-DTSTAMP:20261125T063204Z
+DTSTAMP:20261126T063310Z
 DTSTART:20261217T190000Z
 DTEND:20261217T220000Z
 SUMMARY:Cercle Francais
@@ -773,7 +706,7 @@ URL:https://kalender.subonline.org/event/cercle-francais-51/
 END:VEVENT
 BEGIN:VEVENT
 UID:sub-277438@sub-events
-DTSTAMP:20261125T063204Z
+DTSTAMP:20261126T063310Z
 DTSTART:20261218T183000Z
 DTEND:20261218T200000Z
 SUMMARY:Queere Lehrkräfte Bayern
@@ -784,7 +717,7 @@ URL:https://kalender.subonline.org/event/queere-lehrkrafte-bayern-9/
 END:VEVENT
 BEGIN:VEVENT
 UID:sub-277437@sub-events
-DTSTAMP:20261125T063204Z
+DTSTAMP:20261126T063310Z
 DTSTART:20261218T190000Z
 DTEND:20261218T213000Z
 SUMMARY:VIVA TS Treffen
@@ -795,7 +728,7 @@ URL:https://kalender.subonline.org/event/viva-ts-treffen-54/
 END:VEVENT
 BEGIN:VEVENT
 UID:sub-277644@sub-events
-DTSTAMP:20261125T063204Z
+DTSTAMP:20261126T063310Z
 DTSTART:20261220T140000Z
 DTEND:20261220T180000Z
 SUMMARY:Advents – Kaffee & Kuchen
@@ -806,7 +739,7 @@ URL:https://kalender.subonline.org/event/advents-kaffee-kuchen-4/
 END:VEVENT
 BEGIN:VEVENT
 UID:sub-277643@sub-events
-DTSTAMP:20261125T063204Z
+DTSTAMP:20261126T063310Z
 DTSTART:20261220T140000Z
 DTEND:20261220T180000Z
 SUMMARY:Kaffee & Kuchen
@@ -818,7 +751,7 @@ URL:https://kalender.subonline.org/event/kaffee-kuchen-28/
 END:VEVENT
 BEGIN:VEVENT
 UID:sub-277642@sub-events
-DTSTAMP:20261125T063204Z
+DTSTAMP:20261126T063310Z
 DTSTART:20261220T160000Z
 DTEND:20261220T180000Z
 SUMMARY:Yoga
@@ -828,7 +761,7 @@ URL:https://kalender.subonline.org/event/yoga-9/
 END:VEVENT
 BEGIN:VEVENT
 UID:sub-277910@sub-events
-DTSTAMP:20261125T063204Z
+DTSTAMP:20261126T063310Z
 DTSTART:20261222T183000Z
 DTEND:20261222T200000Z
 SUMMARY:Gruppe für schwule/bisexuelle Männer* mit Depressions- und Burnou
@@ -841,7 +774,7 @@ URL:https://kalender.subonline.org/event/gruppe-fur-schwule-bisexuelle-mann
 END:VEVENT
 BEGIN:VEVENT
 UID:sub-278142@sub-events
-DTSTAMP:20261125T063204Z
+DTSTAMP:20261126T063310Z
 DTSTART:20261223T180000Z
 DTEND:20261223T193000Z
 SUMMARY:Post-Chemsex-Gruppe
@@ -852,7 +785,7 @@ URL:https://kalender.subonline.org/event/post-chemsex-gruppe-31/
 END:VEVENT
 BEGIN:VEVENT
 UID:sub-278141@sub-events
-DTSTAMP:20261125T063204Z
+DTSTAMP:20261126T063310Z
 DTSTART:20261223T180000Z
 DTEND:20261223T200000Z
 SUMMARY:Queer Uferlos Redaktion
@@ -863,7 +796,7 @@ URL:https://kalender.subonline.org/event/queer-uferlos-redaktion-13/
 END:VEVENT
 BEGIN:VEVENT
 UID:sub-278140@sub-events
-DTSTAMP:20261125T063204Z
+DTSTAMP:20261126T063310Z
 DTSTART:20261223T180000Z
 DTEND:20261223T210000Z
 SUMMARY:Schach im Sub
@@ -874,7 +807,7 @@ URL:https://kalender.subonline.org/event/schach-im-sub-64/
 END:VEVENT
 BEGIN:VEVENT
 UID:sub-278139@sub-events
-DTSTAMP:20261125T063204Z
+DTSTAMP:20261126T063310Z
 DTSTART:20261223T183000Z
 DTEND:20261223T213000Z
 SUMMARY:Brettspielgruppe
@@ -885,7 +818,7 @@ URL:https://kalender.subonline.org/event/brettspielgruppe-62/
 END:VEVENT
 BEGIN:VEVENT
 UID:sub-278138@sub-events
-DTSTAMP:20261125T063204Z
+DTSTAMP:20261126T063310Z
 DTSTART:20261223T183000Z
 DTEND:20261223T200000Z
 SUMMARY:Selbsthilfe Alkoholabhängigkeit. Eine Gruppe vom Blauen Kreuz Mün
@@ -908,7 +841,7 @@ URL:https://kalender.subonline.org/event/selbsthilfe-alkoholabhangigkeit-ei
 END:VEVENT
 BEGIN:VEVENT
 UID:sub-278358@sub-events
-DTSTAMP:20261125T063204Z
+DTSTAMP:20261126T063310Z
 DTSTART:20261224T181500Z
 DTEND:20261224T211500Z
 SUMMARY:Gay & Grey
@@ -919,7 +852,7 @@ URL:https://kalender.subonline.org/event/gay-grey-58/
 END:VEVENT
 BEGIN:VEVENT
 UID:sub-278357@sub-events
-DTSTAMP:20261125T063204Z
+DTSTAMP:20261126T063310Z
 DTSTART:20261224T183000Z
 DTEND:20261224T200000Z
 SUMMARY:Deutsch Konversationskurs
@@ -930,7 +863,7 @@ URL:https://kalender.subonline.org/event/deutsch-konversationskurs-43/
 END:VEVENT
 BEGIN:VEVENT
 UID:sub-278356@sub-events
-DTSTAMP:20261125T063204Z
+DTSTAMP:20261126T063310Z
 DTSTART:20261224T190000Z
 DTEND:20261224T220000Z
 SUMMARY:Cercle Francais
@@ -941,7 +874,7 @@ URL:https://kalender.subonline.org/event/cercle-francais-52/
 END:VEVENT
 BEGIN:VEVENT
 UID:sub-278591@sub-events
-DTSTAMP:20261125T063204Z
+DTSTAMP:20261126T063310Z
 DTSTART:20261225T180000Z
 DTEND:20261225T210000Z
 SUMMARY:Queer Bipocs Munich
@@ -952,7 +885,7 @@ URL:https://kalender.subonline.org/event/queer-bipocs-munich-13/
 END:VEVENT
 BEGIN:VEVENT
 UID:sub-278592@sub-events
-DTSTAMP:20261125T063204Z
+DTSTAMP:20261126T063310Z
 DTSTART:20261225T190000Z
 DTEND:20261225T213000Z
 SUMMARY:VIVA TS Treffen
@@ -963,7 +896,7 @@ URL:https://kalender.subonline.org/event/viva-ts-treffen-55/
 END:VEVENT
 BEGIN:VEVENT
 UID:sub-279066@sub-events
-DTSTAMP:20261125T063204Z
+DTSTAMP:20261126T063310Z
 DTSTART:20261229T183000Z
 DTEND:20261229T200000Z
 SUMMARY:Gruppe für schwule/bisexuelle Männer* mit Depressions- und Burnou
@@ -976,7 +909,7 @@ URL:https://kalender.subonline.org/event/gruppe-fur-schwule-bisexuelle-mann
 END:VEVENT
 BEGIN:VEVENT
 UID:sub-279137@sub-events
-DTSTAMP:20261125T063204Z
+DTSTAMP:20261126T063310Z
 DTSTART:20261230T180000Z
 DTEND:20261230T193000Z
 SUMMARY:Chemsex Control Gruppe
@@ -1001,7 +934,7 @@ URL:https://kalender.subonline.org/event/chemsex-control-gruppe-30/
 END:VEVENT
 BEGIN:VEVENT
 UID:sub-279135@sub-events
-DTSTAMP:20261125T063204Z
+DTSTAMP:20261126T063310Z
 DTSTART:20261230T180000Z
 DTEND:20261230T210000Z
 SUMMARY:Schach im Sub
@@ -1012,7 +945,7 @@ URL:https://kalender.subonline.org/event/schach-im-sub-65/
 END:VEVENT
 BEGIN:VEVENT
 UID:sub-279134@sub-events
-DTSTAMP:20261125T063204Z
+DTSTAMP:20261126T063310Z
 DTSTART:20261230T183000Z
 DTEND:20261230T213000Z
 SUMMARY:Brettspielgruppe
@@ -1023,7 +956,7 @@ URL:https://kalender.subonline.org/event/brettspielgruppe-63/
 END:VEVENT
 BEGIN:VEVENT
 UID:sub-279136@sub-events
-DTSTAMP:20261125T063204Z
+DTSTAMP:20261126T063310Z
 DTSTART:20261230T183000Z
 DTEND:20261230T200000Z
 SUMMARY:Selbsthilfe Alkoholabhängigkeit. Eine Gruppe vom Blauen Kreuz Mün
@@ -1046,7 +979,7 @@ URL:https://kalender.subonline.org/event/selbsthilfe-alkoholabhangigkeit-ei
 END:VEVENT
 BEGIN:VEVENT
 UID:sub-279234@sub-events
-DTSTAMP:20261125T063204Z
+DTSTAMP:20261126T063310Z
 DTSTART:20261231T181500Z
 DTEND:20261231T211500Z
 SUMMARY:Gay & Grey
@@ -1057,7 +990,7 @@ URL:https://kalender.subonline.org/event/gay-grey-59/
 END:VEVENT
 BEGIN:VEVENT
 UID:sub-279232@sub-events
-DTSTAMP:20261125T063204Z
+DTSTAMP:20261126T063310Z
 DTSTART:20261231T183000Z
 DTEND:20261231T200000Z
 SUMMARY:Deutsch Konversationskurs
@@ -1068,7 +1001,7 @@ URL:https://kalender.subonline.org/event/deutsch-konversationskurs-44/
 END:VEVENT
 BEGIN:VEVENT
 UID:sub-279233@sub-events
-DTSTAMP:20261125T063204Z
+DTSTAMP:20261126T063310Z
 DTSTART:20261231T190000Z
 DTEND:20261231T220000Z
 SUMMARY:Cercle Francais
@@ -1079,7 +1012,7 @@ URL:https://kalender.subonline.org/event/cercle-francais-53/
 END:VEVENT
 BEGIN:VEVENT
 UID:sub-290903@sub-events
-DTSTAMP:20261125T063204Z
+DTSTAMP:20261126T063310Z
 DTSTART:20270101T180000Z
 DTEND:20270101T200000Z
 SUMMARY:QTies
@@ -1090,7 +1023,7 @@ URL:https://kalender.subonline.org/event/qties-13/
 END:VEVENT
 BEGIN:VEVENT
 UID:sub-279293@sub-events
-DTSTAMP:20261125T063204Z
+DTSTAMP:20261126T063310Z
 DTSTART:20270101T190000Z
 DTEND:20270101T213000Z
 SUMMARY:VIVA TS Treffen
@@ -1101,7 +1034,7 @@ URL:https://kalender.subonline.org/event/viva-ts-treffen-56/
 END:VEVENT
 BEGIN:VEVENT
 UID:sub-279428@sub-events
-DTSTAMP:20261125T063204Z
+DTSTAMP:20261126T063310Z
 DTSTART:20270103T140000Z
 DTEND:20270103T180000Z
 SUMMARY:Kaffee & Kuchen
@@ -1113,7 +1046,7 @@ URL:https://kalender.subonline.org/event/kaffee-kuchen-29/
 END:VEVENT
 BEGIN:VEVENT
 UID:sub-279613@sub-events
-DTSTAMP:20261125T063204Z
+DTSTAMP:20261126T063310Z
 DTSTART:20270105T180000Z
 DTEND:20270105T193000Z
 SUMMARY:Regenbogenväter
@@ -1138,7 +1071,7 @@ URL:https://kalender.subonline.org/event/regenbogenvater-6/
 END:VEVENT
 BEGIN:VEVENT
 UID:sub-286466@sub-events
-DTSTAMP:20261125T063204Z
+DTSTAMP:20261126T063310Z
 DTSTART:20270105T180000Z
 DTEND:20270105T210000Z
 SUMMARY:mittendrin Meet&Eat im Café Glück
@@ -1153,7 +1086,7 @@ URL:https://kalender.subonline.org/event/mittendrin-meeteat-im-cafe-gluck-5
 END:VEVENT
 BEGIN:VEVENT
 UID:sub-279612@sub-events
-DTSTAMP:20261125T063204Z
+DTSTAMP:20261126T063310Z
 DTSTART:20270105T183000Z
 DTEND:20270105T200000Z
 SUMMARY:Gruppe für schwule/bisexuelle Männer* mit Depressions- und Burnou
@@ -1166,7 +1099,7 @@ URL:https://kalender.subonline.org/event/gruppe-fur-schwule-bisexuelle-mann
 END:VEVENT
 BEGIN:VEVENT
 UID:sub-279699@sub-events
-DTSTAMP:20261125T063204Z
+DTSTAMP:20261126T063310Z
 DTSTART:20270106T180000Z
 DTEND:20270106T220000Z
 SUMMARY:International Queer Stammtisch
@@ -1177,7 +1110,7 @@ URL:https://kalender.subonline.org/event/international-queer-stammtisch-16/
 END:VEVENT
 BEGIN:VEVENT
 UID:sub-279698@sub-events
-DTSTAMP:20261125T063204Z
+DTSTAMP:20261126T063310Z
 DTSTART:20270106T180000Z
 DTEND:20270106T193000Z
 SUMMARY:Post-Chemsex-Gruppe
@@ -1188,7 +1121,7 @@ URL:https://kalender.subonline.org/event/post-chemsex-gruppe-32/
 END:VEVENT
 BEGIN:VEVENT
 UID:sub-279695@sub-events
-DTSTAMP:20261125T063204Z
+DTSTAMP:20261126T063310Z
 DTSTART:20270106T180000Z
 DTEND:20270106T210000Z
 SUMMARY:Schach im Sub
@@ -1199,7 +1132,7 @@ URL:https://kalender.subonline.org/event/schach-im-sub-66/
 END:VEVENT
 BEGIN:VEVENT
 UID:sub-279696@sub-events
-DTSTAMP:20261125T063204Z
+DTSTAMP:20261126T063310Z
 DTSTART:20270106T180000Z
 DTEND:20270106T200000Z
 SUMMARY:Schafkopfen im Sub
@@ -1213,7 +1146,7 @@ URL:https://kalender.subonline.org/event/schafkopfen-im-sub-28/
 END:VEVENT
 BEGIN:VEVENT
 UID:sub-279697@sub-events
-DTSTAMP:20261125T063204Z
+DTSTAMP:20261126T063310Z
 DTSTART:20270106T183000Z
 DTEND:20270106T213000Z
 SUMMARY:Brettspielgruppe
@@ -1224,7 +1157,7 @@ URL:https://kalender.subonline.org/event/brettspielgruppe-64/
 END:VEVENT
 BEGIN:VEVENT
 UID:sub-279700@sub-events
-DTSTAMP:20261125T063204Z
+DTSTAMP:20261126T063310Z
 DTSTART:20270106T183000Z
 DTEND:20270106T200000Z
 SUMMARY:Selbsthilfe Alkoholabhängigkeit. Eine Gruppe vom Blauen Kreuz Mün
@@ -1247,7 +1180,7 @@ URL:https://kalender.subonline.org/event/selbsthilfe-alkoholabhangigkeit-ei
 END:VEVENT
 BEGIN:VEVENT
 UID:sub-279694@sub-events
-DTSTAMP:20261125T063204Z
+DTSTAMP:20261126T063310Z
 DTSTART:20270106T190000Z
 DTEND:20270106T210000Z
 SUMMARY:Schwule und bisexuelle Väter und Ehemänner
@@ -1259,7 +1192,7 @@ URL:https://kalender.subonline.org/event/schwule-und-bisexuelle-vater-und-e
 END:VEVENT
 BEGIN:VEVENT
 UID:sub-279794@sub-events
-DTSTAMP:20261125T063204Z
+DTSTAMP:20261126T063310Z
 DTSTART:20270107T181500Z
 DTEND:20270107T211500Z
 SUMMARY:Gay & Grey
@@ -1270,7 +1203,7 @@ URL:https://kalender.subonline.org/event/gay-grey-60/
 END:VEVENT
 BEGIN:VEVENT
 UID:sub-279793@sub-events
-DTSTAMP:20261125T063204Z
+DTSTAMP:20261126T063310Z
 DTSTART:20270107T181500Z
 DTEND:20270107T200000Z
 SUMMARY:Queeramnesty
@@ -1282,7 +1215,7 @@ URL:https://kalender.subonline.org/event/queeramnesty-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:sub-279791@sub-events
-DTSTAMP:20261125T063204Z
+DTSTAMP:20261126T063310Z
 DTSTART:20270107T183000Z
 DTEND:20270107T200000Z
 SUMMARY:Deutsch Konversationskurs
@@ -1293,7 +1226,7 @@ URL:https://kalender.subonline.org/event/deutsch-konversationskurs-45/
 END:VEVENT
 BEGIN:VEVENT
 UID:sub-279792@sub-events
-DTSTAMP:20261125T063204Z
+DTSTAMP:20261126T063310Z
 DTSTART:20270107T190000Z
 DTEND:20270107T220000Z
 SUMMARY:Cercle Francais
@@ -1304,7 +1237,7 @@ URL:https://kalender.subonline.org/event/cercle-francais-54/
 END:VEVENT
 BEGIN:VEVENT
 UID:sub-279860@sub-events
-DTSTAMP:20261125T063204Z
+DTSTAMP:20261126T063310Z
 DTSTART:20270108T160000Z
 DTEND:20270108T190000Z
 SUMMARY:Kostenloser Testabend im Sub
@@ -1315,7 +1248,7 @@ URL:https://kalender.subonline.org/event/kostenloser-testabend-im-sub-9/
 END:VEVENT
 BEGIN:VEVENT
 UID:sub-279861@sub-events
-DTSTAMP:20261125T063204Z
+DTSTAMP:20261126T063310Z
 DTSTART:20270108T190000Z
 DTEND:20270108T213000Z
 SUMMARY:VIVA TS Treffen
@@ -1326,7 +1259,7 @@ URL:https://kalender.subonline.org/event/viva-ts-treffen-57/
 END:VEVENT
 BEGIN:VEVENT
 UID:sub-280519@sub-events
-DTSTAMP:20261125T063204Z
+DTSTAMP:20261126T063310Z
 DTSTART:20270112T183000Z
 DTEND:20270112T200000Z
 SUMMARY:Gruppe für schwule/bisexuelle Männer* mit Depressions- und Burnou
@@ -1339,7 +1272,7 @@ URL:https://kalender.subonline.org/event/gruppe-fur-schwule-bisexuelle-mann
 END:VEVENT
 BEGIN:VEVENT
 UID:sub-280578@sub-events
-DTSTAMP:20261125T063204Z
+DTSTAMP:20261126T063310Z
 DTSTART:20270113T180000Z
 DTEND:20270113T193000Z
 SUMMARY:Chemsex Control Gruppe
@@ -1364,7 +1297,7 @@ URL:https://kalender.subonline.org/event/chemsex-control-gruppe-31/
 END:VEVENT
 BEGIN:VEVENT
 UID:sub-280576@sub-events
-DTSTAMP:20261125T063204Z
+DTSTAMP:20261126T063310Z
 DTSTART:20270113T180000Z
 DTEND:20270113T210000Z
 SUMMARY:Schach im Sub
@@ -1375,7 +1308,7 @@ URL:https://kalender.subonline.org/event/schach-im-sub-67/
 END:VEVENT
 BEGIN:VEVENT
 UID:sub-280575@sub-events
-DTSTAMP:20261125T063204Z
+DTSTAMP:20261126T063310Z
 DTSTART:20270113T183000Z
 DTEND:20270113T213000Z
 SUMMARY:Brettspielgruppe
@@ -1386,7 +1319,7 @@ URL:https://kalender.subonline.org/event/brettspielgruppe-65/
 END:VEVENT
 BEGIN:VEVENT
 UID:sub-280579@sub-events
-DTSTAMP:20261125T063204Z
+DTSTAMP:20261126T063310Z
 DTSTART:20270113T183000Z
 DTEND:20270113T203000Z
 SUMMARY:Münchner Positive
@@ -1397,7 +1330,7 @@ URL:https://kalender.subonline.org/event/munchner-positive-9/
 END:VEVENT
 BEGIN:VEVENT
 UID:sub-280577@sub-events
-DTSTAMP:20261125T063204Z
+DTSTAMP:20261126T063310Z
 DTSTART:20270113T183000Z
 DTEND:20270113T200000Z
 SUMMARY:Selbsthilfe Alkoholabhängigkeit. Eine Gruppe vom Blauen Kreuz Mün
@@ -1420,7 +1353,7 @@ URL:https://kalender.subonline.org/event/selbsthilfe-alkoholabhangigkeit-ei
 END:VEVENT
 BEGIN:VEVENT
 UID:sub-280834@sub-events
-DTSTAMP:20261125T063204Z
+DTSTAMP:20261126T063310Z
 DTSTART:20270114T181500Z
 DTEND:20270114T211500Z
 SUMMARY:Gay & Grey
@@ -1431,7 +1364,7 @@ URL:https://kalender.subonline.org/event/gay-grey-61/
 END:VEVENT
 BEGIN:VEVENT
 UID:sub-280836@sub-events
-DTSTAMP:20261125T063204Z
+DTSTAMP:20261126T063310Z
 DTSTART:20270114T183000Z
 DTEND:20270114T200000Z
 SUMMARY:Deutsch Konversationskurs
@@ -1442,7 +1375,7 @@ URL:https://kalender.subonline.org/event/deutsch-konversationskurs-46/
 END:VEVENT
 BEGIN:VEVENT
 UID:sub-280835@sub-events
-DTSTAMP:20261125T063204Z
+DTSTAMP:20261126T063310Z
 DTSTART:20270114T190000Z
 DTEND:20270114T220000Z
 SUMMARY:Cercle Francais
@@ -1453,7 +1386,7 @@ URL:https://kalender.subonline.org/event/cercle-francais-55/
 END:VEVENT
 BEGIN:VEVENT
 UID:sub-286467@sub-events
-DTSTAMP:20261125T063204Z
+DTSTAMP:20261126T063310Z
 DTSTART:20270115T180000Z
 DTEND:20270115T210000Z
 SUMMARY:Kulinarische Weltreise: Vietnamesisch
@@ -1468,7 +1401,7 @@ URL:https://kalender.subonline.org/event/kulinarische-weltreise-vietnamesis
 END:VEVENT
 BEGIN:VEVENT
 UID:sub-281043@sub-events
-DTSTAMP:20261125T063204Z
+DTSTAMP:20261126T063310Z
 DTSTART:20270115T183000Z
 DTEND:20270115T200000Z
 SUMMARY:Queere Lehrkräfte Bayern
@@ -1479,7 +1412,7 @@ URL:https://kalender.subonline.org/event/queere-lehrkrafte-bayern-7/
 END:VEVENT
 BEGIN:VEVENT
 UID:sub-281042@sub-events
-DTSTAMP:20261125T063204Z
+DTSTAMP:20261126T063310Z
 DTSTART:20270115T190000Z
 DTEND:20270115T213000Z
 SUMMARY:VIVA TS Treffen
@@ -1490,7 +1423,7 @@ URL:https://kalender.subonline.org/event/viva-ts-treffen-58/
 END:VEVENT
 BEGIN:VEVENT
 UID:sub-281305@sub-events
-DTSTAMP:20261125T063204Z
+DTSTAMP:20261126T063310Z
 DTSTART:20270117T140000Z
 DTEND:20270117T180000Z
 SUMMARY:Kaffee & Kuchen
@@ -1502,7 +1435,7 @@ URL:https://kalender.subonline.org/event/kaffee-kuchen-30/
 END:VEVENT
 BEGIN:VEVENT
 UID:sub-281441@sub-events
-DTSTAMP:20261125T063204Z
+DTSTAMP:20261126T063310Z
 DTSTART:20270119T183000Z
 DTEND:20270119T200000Z
 SUMMARY:Gruppe für schwule/bisexuelle Männer* mit Depressions- und Burnou
@@ -1515,7 +1448,7 @@ URL:https://kalender.subonline.org/event/gruppe-fur-schwule-bisexuelle-mann
 END:VEVENT
 BEGIN:VEVENT
 UID:sub-281442@sub-events
-DTSTAMP:20261125T063204Z
+DTSTAMP:20261126T063310Z
 DTSTART:20270119T183000Z
 DTEND:20270119T213000Z
 SUMMARY:Munich Kiev Queer
@@ -1527,7 +1460,7 @@ URL:https://kalender.subonline.org/event/munich-kiev-queer-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:sub-281440@sub-events
-DTSTAMP:20261125T063204Z
+DTSTAMP:20261126T063310Z
 DTSTART:20270119T183000Z
 DTEND:20270119T190000Z
 SUMMARY:Sub+ (mit Voranmeldung)
@@ -1550,7 +1483,7 @@ URL:https://kalender.subonline.org/event/sub-mit-voranmeldung-16/
 END:VEVENT
 BEGIN:VEVENT
 UID:sub-282298@sub-events
-DTSTAMP:20261125T063204Z
+DTSTAMP:20261126T063310Z
 DTSTART:20270120T180000Z
 DTEND:20270120T193000Z
 SUMMARY:Post-Chemsex-Gruppe
@@ -1561,7 +1494,7 @@ URL:https://kalender.subonline.org/event/post-chemsex-gruppe-33/
 END:VEVENT
 BEGIN:VEVENT
 UID:sub-282295@sub-events
-DTSTAMP:20261125T063204Z
+DTSTAMP:20261126T063310Z
 DTSTART:20270120T180000Z
 DTEND:20270120T210000Z
 SUMMARY:Schach im Sub
@@ -1572,7 +1505,7 @@ URL:https://kalender.subonline.org/event/schach-im-sub-68/
 END:VEVENT
 BEGIN:VEVENT
 UID:sub-282297@sub-events
-DTSTAMP:20261125T063204Z
+DTSTAMP:20261126T063310Z
 DTSTART:20270120T180000Z
 DTEND:20270120T200000Z
 SUMMARY:Schafkopfen im Sub
@@ -1586,7 +1519,7 @@ URL:https://kalender.subonline.org/event/schafkopfen-im-sub-29/
 END:VEVENT
 BEGIN:VEVENT
 UID:sub-282300@sub-events
-DTSTAMP:20261125T063204Z
+DTSTAMP:20261126T063310Z
 DTSTART:20270120T183000Z
 DTEND:20270120T213000Z
 SUMMARY:Brettspielgruppe
@@ -1597,7 +1530,7 @@ URL:https://kalender.subonline.org/event/brettspielgruppe-66/
 END:VEVENT
 BEGIN:VEVENT
 UID:sub-282299@sub-events
-DTSTAMP:20261125T063204Z
+DTSTAMP:20261126T063310Z
 DTSTART:20270120T183000Z
 DTEND:20270120T200000Z
 SUMMARY:Selbsthilfe Alkoholabhängigkeit. Eine Gruppe vom Blauen Kreuz Mün
@@ -1620,7 +1553,7 @@ URL:https://kalender.subonline.org/event/selbsthilfe-alkoholabhangigkeit-ei
 END:VEVENT
 BEGIN:VEVENT
 UID:sub-282296@sub-events
-DTSTAMP:20261125T063204Z
+DTSTAMP:20261126T063310Z
 DTSTART:20270120T183000Z
 DTEND:20270120T200000Z
 SUMMARY:S’AG Gruppentreffen
@@ -1631,7 +1564,7 @@ URL:https://kalender.subonline.org/event/sag-gruppentreffen-15/
 END:VEVENT
 BEGIN:VEVENT
 UID:sub-282620@sub-events
-DTSTAMP:20261125T063204Z
+DTSTAMP:20261126T063310Z
 DTSTART:20270121T180000Z
 DTEND:20270121T210000Z
 SUMMARY:Gay Alpin im DAV – Stammtisch
@@ -1642,7 +1575,7 @@ URL:https://kalender.subonline.org/event/gay-alpin-im-dav-stammtisch-14/
 END:VEVENT
 BEGIN:VEVENT
 UID:sub-282622@sub-events
-DTSTAMP:20261125T063204Z
+DTSTAMP:20261126T063310Z
 DTSTART:20270121T181500Z
 DTEND:20270121T211500Z
 SUMMARY:Gay & Grey
@@ -1653,7 +1586,7 @@ URL:https://kalender.subonline.org/event/gay-grey-50/
 END:VEVENT
 BEGIN:VEVENT
 UID:sub-282621@sub-events
-DTSTAMP:20261125T063204Z
+DTSTAMP:20261126T063310Z
 DTSTART:20270121T183000Z
 DTEND:20270121T200000Z
 SUMMARY:Deutsch Konversationskurs
@@ -1664,7 +1597,7 @@ URL:https://kalender.subonline.org/event/deutsch-konversationskurs-47/
 END:VEVENT
 BEGIN:VEVENT
 UID:sub-282623@sub-events
-DTSTAMP:20261125T063204Z
+DTSTAMP:20261126T063310Z
 DTSTART:20270121T190000Z
 DTEND:20270121T220000Z
 SUMMARY:Cercle Francais
@@ -1675,7 +1608,7 @@ URL:https://kalender.subonline.org/event/cercle-francais-44/
 END:VEVENT
 BEGIN:VEVENT
 UID:sub-282873@sub-events
-DTSTAMP:20261125T063204Z
+DTSTAMP:20261126T063310Z
 DTSTART:20270122T180000Z
 DTEND:20270122T210000Z
 SUMMARY:Queer Bipocs Munich
@@ -1686,7 +1619,7 @@ URL:https://kalender.subonline.org/event/queer-bipocs-munich-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:sub-282874@sub-events
-DTSTAMP:20261125T063204Z
+DTSTAMP:20261126T063310Z
 DTSTART:20270122T190000Z
 DTEND:20270122T213000Z
 SUMMARY:VIVA TS Treffen
@@ -1697,7 +1630,7 @@ URL:https://kalender.subonline.org/event/viva-ts-treffen-46/
 END:VEVENT
 BEGIN:VEVENT
 UID:sub-284884@sub-events
-DTSTAMP:20261125T063204Z
+DTSTAMP:20261126T063310Z
 DTSTART:20270126T183000Z
 DTEND:20270126T200000Z
 SUMMARY:Gruppe für schwule/bisexuelle Männer* mit Depressions- und Burnou
@@ -1710,7 +1643,7 @@ URL:https://kalender.subonline.org/event/gruppe-fur-schwule-bisexuelle-mann
 END:VEVENT
 BEGIN:VEVENT
 UID:sub-285237@sub-events
-DTSTAMP:20261125T063204Z
+DTSTAMP:20261126T063310Z
 DTSTART:20270127T180000Z
 DTEND:20270127T193000Z
 SUMMARY:Chemsex Control Gruppe
@@ -1735,7 +1668,7 @@ URL:https://kalender.subonline.org/event/chemsex-control-gruppe-32/
 END:VEVENT
 BEGIN:VEVENT
 UID:sub-285235@sub-events
-DTSTAMP:20261125T063204Z
+DTSTAMP:20261126T063310Z
 DTSTART:20270127T180000Z
 DTEND:20270127T200000Z
 SUMMARY:Queer Uferlos Redaktion
@@ -1746,7 +1679,7 @@ URL:https://kalender.subonline.org/event/queer-uferlos-redaktion-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:sub-285236@sub-events
-DTSTAMP:20261125T063204Z
+DTSTAMP:20261126T063310Z
 DTSTART:20270127T180000Z
 DTEND:20270127T210000Z
 SUMMARY:Schach im Sub
@@ -1757,7 +1690,7 @@ URL:https://kalender.subonline.org/event/schach-im-sub-56/
 END:VEVENT
 BEGIN:VEVENT
 UID:sub-285233@sub-events
-DTSTAMP:20261125T063204Z
+DTSTAMP:20261126T063310Z
 DTSTART:20270127T183000Z
 DTEND:20270127T213000Z
 SUMMARY:Brettspielgruppe
@@ -1768,7 +1701,7 @@ URL:https://kalender.subonline.org/event/brettspielgruppe-54/
 END:VEVENT
 BEGIN:VEVENT
 UID:sub-285234@sub-events
-DTSTAMP:20261125T063204Z
+DTSTAMP:20261126T063310Z
 DTSTART:20270127T183000Z
 DTEND:20270127T200000Z
 SUMMARY:Selbsthilfe Alkoholabhängigkeit. Eine Gruppe vom Blauen Kreuz Mün
@@ -1791,7 +1724,7 @@ URL:https://kalender.subonline.org/event/selbsthilfe-alkoholabhangigkeit-ei
 END:VEVENT
 BEGIN:VEVENT
 UID:sub-285521@sub-events
-DTSTAMP:20261125T063204Z
+DTSTAMP:20261126T063310Z
 DTSTART:20270128T181500Z
 DTEND:20270128T211500Z
 SUMMARY:Gay & Grey
@@ -1802,7 +1735,7 @@ URL:https://kalender.subonline.org/event/gay-grey-62/
 END:VEVENT
 BEGIN:VEVENT
 UID:sub-285519@sub-events
-DTSTAMP:20261125T063204Z
+DTSTAMP:20261126T063310Z
 DTSTART:20270128T183000Z
 DTEND:20270128T200000Z
 SUMMARY:Deutsch Konversationskurs
@@ -1813,7 +1746,7 @@ URL:https://kalender.subonline.org/event/deutsch-konversationskurs-48/
 END:VEVENT
 BEGIN:VEVENT
 UID:sub-285520@sub-events
-DTSTAMP:20261125T063204Z
+DTSTAMP:20261126T063310Z
 DTSTART:20270128T190000Z
 DTEND:20270128T220000Z
 SUMMARY:Cercle Francais
@@ -1824,7 +1757,7 @@ URL:https://kalender.subonline.org/event/cercle-francais-56/
 END:VEVENT
 BEGIN:VEVENT
 UID:sub-285754@sub-events
-DTSTAMP:20261125T063204Z
+DTSTAMP:20261126T063310Z
 DTSTART:20270129T190000Z
 DTEND:20270129T213000Z
 SUMMARY:VIVA TS Treffen
@@ -1835,7 +1768,7 @@ URL:https://kalender.subonline.org/event/viva-ts-treffen-59/
 END:VEVENT
 BEGIN:VEVENT
 UID:sub-287810@sub-events
-DTSTAMP:20261125T063204Z
+DTSTAMP:20261126T063310Z
 DTSTART:20270202T180000Z
 DTEND:20270202T193000Z
 SUMMARY:Regenbogenväter
@@ -1860,7 +1793,7 @@ URL:https://kalender.subonline.org/event/regenbogenvater-7/
 END:VEVENT
 BEGIN:VEVENT
 UID:sub-288014@sub-events
-DTSTAMP:20261125T063204Z
+DTSTAMP:20261126T063310Z
 DTSTART:20270202T180000Z
 DTEND:20270202T210000Z
 SUMMARY:mittendrin Meet&Eat im Café Glück
@@ -1875,7 +1808,7 @@ URL:https://kalender.subonline.org/event/mittendrin-meeteat-im-cafe-gluck-6
 END:VEVENT
 BEGIN:VEVENT
 UID:sub-287808@sub-events
-DTSTAMP:20261125T063204Z
+DTSTAMP:20261126T063310Z
 DTSTART:20270202T183000Z
 DTEND:20270202T200000Z
 SUMMARY:Gruppe für schwule/bisexuelle Männer* mit Depressions- und Burnou
@@ -1888,7 +1821,7 @@ URL:https://kalender.subonline.org/event/gruppe-fur-schwule-bisexuelle-mann
 END:VEVENT
 BEGIN:VEVENT
 UID:sub-288283@sub-events
-DTSTAMP:20261125T063204Z
+DTSTAMP:20261126T063310Z
 DTSTART:20270203T180000Z
 DTEND:20270203T220000Z
 SUMMARY:International Queer Stammtisch
@@ -1899,7 +1832,7 @@ URL:https://kalender.subonline.org/event/international-queer-stammtisch-17/
 END:VEVENT
 BEGIN:VEVENT
 UID:sub-288288@sub-events
-DTSTAMP:20261125T063204Z
+DTSTAMP:20261126T063310Z
 DTSTART:20270203T180000Z
 DTEND:20270203T193000Z
 SUMMARY:Post-Chemsex-Gruppe
@@ -1910,7 +1843,7 @@ URL:https://kalender.subonline.org/event/post-chemsex-gruppe-27/
 END:VEVENT
 BEGIN:VEVENT
 UID:sub-288287@sub-events
-DTSTAMP:20261125T063204Z
+DTSTAMP:20261126T063310Z
 DTSTART:20270203T180000Z
 DTEND:20270203T210000Z
 SUMMARY:Schach im Sub
@@ -1921,7 +1854,7 @@ URL:https://kalender.subonline.org/event/schach-im-sub-57/
 END:VEVENT
 BEGIN:VEVENT
 UID:sub-288285@sub-events
-DTSTAMP:20261125T063204Z
+DTSTAMP:20261126T063310Z
 DTSTART:20270203T180000Z
 DTEND:20270203T200000Z
 SUMMARY:Schafkopfen im Sub
@@ -1935,7 +1868,7 @@ URL:https://kalender.subonline.org/event/schafkopfen-im-sub-24/
 END:VEVENT
 BEGIN:VEVENT
 UID:sub-288289@sub-events
-DTSTAMP:20261125T063204Z
+DTSTAMP:20261126T063310Z
 DTSTART:20270203T183000Z
 DTEND:20270203T213000Z
 SUMMARY:Brettspielgruppe
@@ -1946,7 +1879,7 @@ URL:https://kalender.subonline.org/event/brettspielgruppe-67/
 END:VEVENT
 BEGIN:VEVENT
 UID:sub-288286@sub-events
-DTSTAMP:20261125T063204Z
+DTSTAMP:20261126T063310Z
 DTSTART:20270203T183000Z
 DTEND:20270203T200000Z
 SUMMARY:Selbsthilfe Alkoholabhängigkeit. Eine Gruppe vom Blauen Kreuz Mün
@@ -1969,7 +1902,7 @@ URL:https://kalender.subonline.org/event/selbsthilfe-alkoholabhangigkeit-ei
 END:VEVENT
 BEGIN:VEVENT
 UID:sub-288290@sub-events
-DTSTAMP:20261125T063204Z
+DTSTAMP:20261126T063310Z
 DTSTART:20270203T190000Z
 DTEND:20270203T210000Z
 SUMMARY:Schwule und bisexuelle Väter und Ehemänner
@@ -1981,7 +1914,7 @@ URL:https://kalender.subonline.org/event/schwule-und-bisexuelle-vater-und-e
 END:VEVENT
 BEGIN:VEVENT
 UID:sub-288613@sub-events
-DTSTAMP:20261125T063204Z
+DTSTAMP:20261126T063310Z
 DTSTART:20270204T181500Z
 DTEND:20270204T211500Z
 SUMMARY:Gay & Grey
@@ -1992,7 +1925,7 @@ URL:https://kalender.subonline.org/event/gay-grey-63/
 END:VEVENT
 BEGIN:VEVENT
 UID:sub-288612@sub-events
-DTSTAMP:20261125T063204Z
+DTSTAMP:20261126T063310Z
 DTSTART:20270204T181500Z
 DTEND:20270204T200000Z
 SUMMARY:Queeramnesty
@@ -2004,7 +1937,7 @@ URL:https://kalender.subonline.org/event/queeramnesty-9/
 END:VEVENT
 BEGIN:VEVENT
 UID:sub-288611@sub-events
-DTSTAMP:20261125T063204Z
+DTSTAMP:20261126T063310Z
 DTSTART:20270204T183000Z
 DTEND:20270204T200000Z
 SUMMARY:Deutsch Konversationskurs
@@ -2015,7 +1948,7 @@ URL:https://kalender.subonline.org/event/deutsch-konversationskurs-39/
 END:VEVENT
 BEGIN:VEVENT
 UID:sub-288610@sub-events
-DTSTAMP:20261125T063204Z
+DTSTAMP:20261126T063310Z
 DTSTART:20270204T190000Z
 DTEND:20270204T220000Z
 SUMMARY:Cercle Francais
@@ -2026,7 +1959,7 @@ URL:https://kalender.subonline.org/event/cercle-francais-57/
 END:VEVENT
 BEGIN:VEVENT
 UID:sub-290912@sub-events
-DTSTAMP:20261125T063204Z
+DTSTAMP:20261126T063310Z
 DTSTART:20270205T180000Z
 DTEND:20270205T200000Z
 SUMMARY:QTies
@@ -2037,7 +1970,7 @@ URL:https://kalender.subonline.org/event/qties-14/
 END:VEVENT
 BEGIN:VEVENT
 UID:sub-288839@sub-events
-DTSTAMP:20261125T063204Z
+DTSTAMP:20261126T063310Z
 DTSTART:20270205T190000Z
 DTEND:20270205T213000Z
 SUMMARY:VIVA TS Treffen
@@ -2048,7 +1981,7 @@ URL:https://kalender.subonline.org/event/viva-ts-treffen-60/
 END:VEVENT
 BEGIN:VEVENT
 UID:sub-289150@sub-events
-DTSTAMP:20261125T063204Z
+DTSTAMP:20261126T063310Z
 DTSTART:20270207T140000Z
 DTEND:20270207T180000Z
 SUMMARY:Kaffee & Kuchen
@@ -2060,7 +1993,7 @@ URL:https://kalender.subonline.org/event/kaffee-kuchen-31/
 END:VEVENT
 BEGIN:VEVENT
 UID:sub-289641@sub-events
-DTSTAMP:20261125T063204Z
+DTSTAMP:20261126T063310Z
 DTSTART:20270209T183000Z
 DTEND:20270209T200000Z
 SUMMARY:Gruppe für schwule/bisexuelle Männer* mit Depressions- und Burnou
@@ -2073,7 +2006,7 @@ URL:https://kalender.subonline.org/event/gruppe-fur-schwule-bisexuelle-mann
 END:VEVENT
 BEGIN:VEVENT
 UID:sub-290628@sub-events
-DTSTAMP:20261125T063204Z
+DTSTAMP:20261126T063310Z
 DTSTART:20270210T180000Z
 DTEND:20270210T193000Z
 SUMMARY:Chemsex Control Gruppe
@@ -2098,7 +2031,7 @@ URL:https://kalender.subonline.org/event/chemsex-control-gruppe-26/
 END:VEVENT
 BEGIN:VEVENT
 UID:sub-290629@sub-events
-DTSTAMP:20261125T063204Z
+DTSTAMP:20261126T063310Z
 DTSTART:20270210T180000Z
 DTEND:20270210T210000Z
 SUMMARY:Schach im Sub
@@ -2109,7 +2042,7 @@ URL:https://kalender.subonline.org/event/schach-im-sub-58/
 END:VEVENT
 BEGIN:VEVENT
 UID:sub-290634@sub-events
-DTSTAMP:20261125T063204Z
+DTSTAMP:20261126T063310Z
 DTSTART:20270210T183000Z
 DTEND:20270210T213000Z
 SUMMARY:Brettspielgruppe
@@ -2120,7 +2053,7 @@ URL:https://kalender.subonline.org/event/brettspielgruppe-56/
 END:VEVENT
 BEGIN:VEVENT
 UID:sub-290636@sub-events
-DTSTAMP:20261125T063204Z
+DTSTAMP:20261126T063310Z
 DTSTART:20270210T183000Z
 DTEND:20270210T203000Z
 SUMMARY:Münchner Positive
@@ -2131,7 +2064,7 @@ URL:https://kalender.subonline.org/event/munchner-positive-7/
 END:VEVENT
 BEGIN:VEVENT
 UID:sub-290635@sub-events
-DTSTAMP:20261125T063204Z
+DTSTAMP:20261126T063310Z
 DTSTART:20270210T183000Z
 DTEND:20270210T200000Z
 SUMMARY:Selbsthilfe Alkoholabhängigkeit. Eine Gruppe vom Blauen Kreuz Mün
@@ -2154,7 +2087,7 @@ URL:https://kalender.subonline.org/event/selbsthilfe-alkoholabhangigkeit-ei
 END:VEVENT
 BEGIN:VEVENT
 UID:sub-291509@sub-events
-DTSTAMP:20261125T063204Z
+DTSTAMP:20261126T063310Z
 DTSTART:20270211T181500Z
 DTEND:20270211T211500Z
 SUMMARY:Gay & Grey
@@ -2165,7 +2098,7 @@ URL:https://kalender.subonline.org/event/gay-grey-64/
 END:VEVENT
 BEGIN:VEVENT
 UID:sub-291511@sub-events
-DTSTAMP:20261125T063204Z
+DTSTAMP:20261126T063310Z
 DTSTART:20270211T183000Z
 DTEND:20270211T200000Z
 SUMMARY:Deutsch Konversationskurs
@@ -2176,7 +2109,7 @@ URL:https://kalender.subonline.org/event/deutsch-konversationskurs-49/
 END:VEVENT
 BEGIN:VEVENT
 UID:sub-291510@sub-events
-DTSTAMP:20261125T063204Z
+DTSTAMP:20261126T063310Z
 DTSTART:20270211T190000Z
 DTEND:20270211T220000Z
 SUMMARY:Cercle Francais
@@ -2187,7 +2120,7 @@ URL:https://kalender.subonline.org/event/cercle-francais-58/
 END:VEVENT
 BEGIN:VEVENT
 UID:sub-292215@sub-events
-DTSTAMP:20261125T063204Z
+DTSTAMP:20261126T063310Z
 DTSTART:20270212T160000Z
 DTEND:20270212T190000Z
 SUMMARY:Kostenloser Testabend im Sub
@@ -2198,7 +2131,7 @@ URL:https://kalender.subonline.org/event/kostenloser-testabend-im-sub-7/
 END:VEVENT
 BEGIN:VEVENT
 UID:sub-292217@sub-events
-DTSTAMP:20261125T063204Z
+DTSTAMP:20261126T063310Z
 DTSTART:20270212T190000Z
 DTEND:20270212T213000Z
 SUMMARY:VIVA TS Treffen
@@ -2209,7 +2142,7 @@ URL:https://kalender.subonline.org/event/viva-ts-treffen-61/
 END:VEVENT
 BEGIN:VEVENT
 UID:sub-293109@sub-events
-DTSTAMP:20261125T063204Z
+DTSTAMP:20261126T063310Z
 DTSTART:20270216T183000Z
 DTEND:20270216T200000Z
 SUMMARY:Gruppe für schwule/bisexuelle Männer* mit Depressions- und Burnou
@@ -2222,7 +2155,7 @@ URL:https://kalender.subonline.org/event/gruppe-fur-schwule-bisexuelle-mann
 END:VEVENT
 BEGIN:VEVENT
 UID:sub-293111@sub-events
-DTSTAMP:20261125T063204Z
+DTSTAMP:20261126T063310Z
 DTSTART:20270216T183000Z
 DTEND:20270216T213000Z
 SUMMARY:Munich Kiev Queer
@@ -2234,7 +2167,7 @@ URL:https://kalender.subonline.org/event/munich-kiev-queer-16/
 END:VEVENT
 BEGIN:VEVENT
 UID:sub-293110@sub-events
-DTSTAMP:20261125T063204Z
+DTSTAMP:20261126T063310Z
 DTSTART:20270216T183000Z
 DTEND:20270216T190000Z
 SUMMARY:Sub+ (mit Voranmeldung)
@@ -2257,7 +2190,7 @@ URL:https://kalender.subonline.org/event/sub-mit-voranmeldung-14/
 END:VEVENT
 BEGIN:VEVENT
 UID:sub-293372@sub-events
-DTSTAMP:20261125T063204Z
+DTSTAMP:20261126T063310Z
 DTSTART:20270217T180000Z
 DTEND:20270217T193000Z
 SUMMARY:Post-Chemsex-Gruppe
@@ -2268,7 +2201,7 @@ URL:https://kalender.subonline.org/event/post-chemsex-gruppe-28/
 END:VEVENT
 BEGIN:VEVENT
 UID:sub-293369@sub-events
-DTSTAMP:20261125T063204Z
+DTSTAMP:20261126T063310Z
 DTSTART:20270217T180000Z
 DTEND:20270217T210000Z
 SUMMARY:Schach im Sub
@@ -2279,7 +2212,7 @@ URL:https://kalender.subonline.org/event/schach-im-sub-69/
 END:VEVENT
 BEGIN:VEVENT
 UID:sub-293371@sub-events
-DTSTAMP:20261125T063204Z
+DTSTAMP:20261126T063310Z
 DTSTART:20270217T180000Z
 DTEND:20270217T200000Z
 SUMMARY:Schafkopfen im Sub
@@ -2293,7 +2226,7 @@ URL:https://kalender.subonline.org/event/schafkopfen-im-sub-30/
 END:VEVENT
 BEGIN:VEVENT
 UID:sub-293370@sub-events
-DTSTAMP:20261125T063204Z
+DTSTAMP:20261126T063310Z
 DTSTART:20270217T183000Z
 DTEND:20270217T213000Z
 SUMMARY:Brettspielgruppe
@@ -2304,7 +2237,7 @@ URL:https://kalender.subonline.org/event/brettspielgruppe-68/
 END:VEVENT
 BEGIN:VEVENT
 UID:sub-293367@sub-events
-DTSTAMP:20261125T063204Z
+DTSTAMP:20261126T063310Z
 DTSTART:20270217T183000Z
 DTEND:20270217T200000Z
 SUMMARY:Selbsthilfe Alkoholabhängigkeit. Eine Gruppe vom Blauen Kreuz Mün
@@ -2327,7 +2260,7 @@ URL:https://kalender.subonline.org/event/selbsthilfe-alkoholabhangigkeit-ei
 END:VEVENT
 BEGIN:VEVENT
 UID:sub-293368@sub-events
-DTSTAMP:20261125T063204Z
+DTSTAMP:20261126T063310Z
 DTSTART:20270217T183000Z
 DTEND:20270217T200000Z
 SUMMARY:S’AG Gruppentreffen
@@ -2338,7 +2271,7 @@ URL:https://kalender.subonline.org/event/sag-gruppentreffen-16/
 END:VEVENT
 BEGIN:VEVENT
 UID:sub-293695@sub-events
-DTSTAMP:20261125T063204Z
+DTSTAMP:20261126T063310Z
 DTSTART:20270218T180000Z
 DTEND:20270218T210000Z
 SUMMARY:Gay Alpin im DAV – Stammtisch
@@ -2349,7 +2282,7 @@ URL:https://kalender.subonline.org/event/gay-alpin-im-dav-stammtisch-15/
 END:VEVENT
 BEGIN:VEVENT
 UID:sub-293693@sub-events
-DTSTAMP:20261125T063204Z
+DTSTAMP:20261126T063310Z
 DTSTART:20270218T181500Z
 DTEND:20270218T211500Z
 SUMMARY:Gay & Grey
@@ -2360,7 +2293,7 @@ URL:https://kalender.subonline.org/event/gay-grey-65/
 END:VEVENT
 BEGIN:VEVENT
 UID:sub-293694@sub-events
-DTSTAMP:20261125T063204Z
+DTSTAMP:20261126T063310Z
 DTSTART:20270218T183000Z
 DTEND:20270218T200000Z
 SUMMARY:Deutsch Konversationskurs
@@ -2371,7 +2304,7 @@ URL:https://kalender.subonline.org/event/deutsch-konversationskurs-50/
 END:VEVENT
 BEGIN:VEVENT
 UID:sub-293692@sub-events
-DTSTAMP:20261125T063204Z
+DTSTAMP:20261126T063310Z
 DTSTART:20270218T190000Z
 DTEND:20270218T220000Z
 SUMMARY:Cercle Francais
@@ -2382,7 +2315,7 @@ URL:https://kalender.subonline.org/event/cercle-francais-59/
 END:VEVENT
 BEGIN:VEVENT
 UID:sub-294064@sub-events
-DTSTAMP:20261125T063204Z
+DTSTAMP:20261126T063310Z
 DTSTART:20270219T180000Z
 DTEND:20270219T210000Z
 SUMMARY:Kulinarische Weltreise: Israelisch
@@ -2396,7 +2329,7 @@ URL:https://kalender.subonline.org/event/kulinarische-weltreise-israelisch/
 END:VEVENT
 BEGIN:VEVENT
 UID:sub-294010@sub-events
-DTSTAMP:20261125T063204Z
+DTSTAMP:20261126T063310Z
 DTSTART:20270219T183000Z
 DTEND:20270219T200000Z
 SUMMARY:Queere Lehrkräfte Bayern
@@ -2407,7 +2340,7 @@ URL:https://kalender.subonline.org/event/queere-lehrkrafte-bayern-10/
 END:VEVENT
 BEGIN:VEVENT
 UID:sub-294009@sub-events
-DTSTAMP:20261125T063204Z
+DTSTAMP:20261126T063310Z
 DTSTART:20270219T190000Z
 DTEND:20270219T213000Z
 SUMMARY:VIVA TS Treffen
@@ -2418,7 +2351,7 @@ URL:https://kalender.subonline.org/event/viva-ts-treffen-62/
 END:VEVENT
 BEGIN:VEVENT
 UID:sub-294379@sub-events
-DTSTAMP:20261125T063204Z
+DTSTAMP:20261126T063310Z
 DTSTART:20270221T140000Z
 DTEND:20270221T180000Z
 SUMMARY:Kaffee & Kuchen
@@ -2430,7 +2363,7 @@ URL:https://kalender.subonline.org/event/kaffee-kuchen-26/
 END:VEVENT
 BEGIN:VEVENT
 UID:sub-294762@sub-events
-DTSTAMP:20261125T063204Z
+DTSTAMP:20261126T063310Z
 DTSTART:20270223T183000Z
 DTEND:20270223T200000Z
 SUMMARY:Gruppe für schwule/bisexuelle Männer* mit Depressions- und Burnou
@@ -2440,5 +2373,86 @@ DESCRIPTION:\nOriginaltermin: https://kalender.subonline.org/event/gruppe-f
 LOCATION:Ort siehe Originaltermin
 URL:https://kalender.subonline.org/event/gruppe-fur-schwule-bisexuelle-mann
  er-mit-depressions-und-burnouterfahrung-39/
+END:VEVENT
+BEGIN:VEVENT
+UID:sub-294914@sub-events
+DTSTAMP:20261126T063310Z
+DTSTART:20270224T180000Z
+DTEND:20270224T193000Z
+SUMMARY:Chemsex Control Gruppe
+DESCRIPTION:Chemsex Control Gruppe Du willst zukünftig seltener Chems kons
+ umieren oder möchtest in Zukunft ganz damit aufhören? Dann ist diese Gru
+ ppe für dich. Kontrollierter Konsum bzw. den Konsum zu reduzieren kann di
+ r helfen\, dass trotz starker und risikoreicher Substanzen die Chems nicht
+  die Oberhand über dein Leben gewinnen. Diese angeleitete Selbsthilfegrup
+ pe soll dir helfen herauszufinden\, wie du deinen Substanzgebrauch in geor
+ dnete Bahnen lenken\, Risiken minimieren und deinen Konsum zu reflektieren
+ . Das Programm wurde speziell für Chemsex User entwickelt und beschäftig
+ t sich mit den körperlichen\, sexuellen\, sozialen und Substanzbezogenen 
+ Veränderungen\, die Chemsex hervorbringen kann. Ein vorheriges Beratungsg
+ espräch ist für die Teilnahme notwendig. Komme einfach in die offene Spr
+ echstunde oder buche Dir einen Beratungstermin. In Partnerschaft mit: {qua
+ psss}-Projekt der Deutschen Aidshilfe Wann: Jeden zweiten Mittwoch um 19.0
+ 0. Voranmeldung ist Voraussetzung zur Teilnahme. Kontakt: chems@subonline.
+ org oder 089 856.346.401\nOriginaltermin: https://kalender.subonline.org/e
+ vent/chemsex-control-gruppe-33/
+LOCATION:Ort siehe Originaltermin
+URL:https://kalender.subonline.org/event/chemsex-control-gruppe-33/
+END:VEVENT
+BEGIN:VEVENT
+UID:sub-294913@sub-events
+DTSTAMP:20261126T063310Z
+DTSTART:20270224T180000Z
+DTEND:20270224T200000Z
+SUMMARY:Queer Uferlos Redaktion
+DESCRIPTION:\nOriginaltermin: https://kalender.subonline.org/event/queer-uf
+ erlos-redaktion-14/
+LOCATION:Ort siehe Originaltermin
+URL:https://kalender.subonline.org/event/queer-uferlos-redaktion-14/
+END:VEVENT
+BEGIN:VEVENT
+UID:sub-294915@sub-events
+DTSTAMP:20261126T063310Z
+DTSTART:20270224T180000Z
+DTEND:20270224T210000Z
+SUMMARY:Schach im Sub
+DESCRIPTION:\nOriginaltermin: https://kalender.subonline.org/event/schach-i
+ m-sub-70/
+LOCATION:Ort siehe Originaltermin
+URL:https://kalender.subonline.org/event/schach-im-sub-70/
+END:VEVENT
+BEGIN:VEVENT
+UID:sub-294912@sub-events
+DTSTAMP:20261126T063310Z
+DTSTART:20270224T183000Z
+DTEND:20270224T213000Z
+SUMMARY:Brettspielgruppe
+DESCRIPTION:\nOriginaltermin: https://kalender.subonline.org/event/brettspi
+ elgruppe-69/
+LOCATION:Ort siehe Originaltermin
+URL:https://kalender.subonline.org/event/brettspielgruppe-69/
+END:VEVENT
+BEGIN:VEVENT
+UID:sub-294916@sub-events
+DTSTAMP:20261126T063310Z
+DTSTART:20270224T183000Z
+DTEND:20270224T200000Z
+SUMMARY:Selbsthilfe Alkoholabhängigkeit. Eine Gruppe vom Blauen Kreuz Mün
+ chen e.V. im Sub für schwule\, bisexuelle und queere Männer
+DESCRIPTION:In der Selbsthilfegruppe Schwule\, bisexuelle und queere Männe
+ r mit Alkoholabhängigkeit haben wir die Möglichkeit uns mit anderen betr
+ offenen Männern austauschen. Durch das Teilen von wertvollen Erfahrungen 
+ und eigenen kreativen Ideen können wir uns gegenseitig unterstützen und 
+ mehr Lebensqualität erreichen. Du musst es nicht schon komplett geschafft
+  haben\, trocken oder kontrolliert zu sein. Die Gruppe findet in Kooperati
+ on mit dem Blauen Kreuz München e.V. statt. . Wann: Die Gruppe trifft sic
+ h Mittwochs immer um 19.30.Es ist keine Voranmeldung nötig.\nOriginalterm
+ in: https://kalender.subonline.org/event/selbsthilfe-alkoholabhangigkeit-e
+ ine-gruppe-vom-blauen-kreuz-munchen-e-v-im-sub-fur-schwule-bisexuelle-und-
+ queere-manner-29/
+LOCATION:Ort siehe Originaltermin
+URL:https://kalender.subonline.org/event/selbsthilfe-alkoholabhangigkeit-ei
+ ne-gruppe-vom-blauen-kreuz-munchen-e-v-im-sub-fur-schwule-bisexuelle-und-q
+ ueere-manner-29/
 END:VEVENT
 END:VCALENDAR
