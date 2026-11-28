@@ -1,41 +1,9 @@
 {
   "source": "https://kalender.subonline.org/events-im-zentrum/",
-  "updatedAt": "2026-11-27T06:34:59Z",
-  "fromDate": "2026-11-27",
-  "throughDate": "2027-05-25",
+  "updatedAt": "2026-11-28T06:35:23Z",
+  "fromDate": "2026-11-28",
+  "throughDate": "2027-05-26",
   "events": [
-    {
-      "id": "sub-274645@sub-events",
-      "date": "2026-11-27",
-      "title": "Queer Bipocs Munich",
-      "description": "",
-      "start": "19:00",
-      "end": "22:00",
-      "endDate": "2026-11-27",
-      "allDay": false,
-      "startUtc": "2026-11-27T18:00:00Z",
-      "endUtc": "2026-11-27T21:00:00Z",
-      "location": "Ort siehe Originaltermin",
-      "category": "Im Zentrum",
-      "ticket": null,
-      "source": "https://kalender.subonline.org/event/queer-bipocs-munich-12/"
-    },
-    {
-      "id": "sub-274646@sub-events",
-      "date": "2026-11-27",
-      "title": "VIVA TS Treffen",
-      "description": "",
-      "start": "20:00",
-      "end": "22:30",
-      "endDate": "2026-11-27",
-      "allDay": false,
-      "startUtc": "2026-11-27T19:00:00Z",
-      "endUtc": "2026-11-27T21:30:00Z",
-      "location": "Ort siehe Originaltermin",
-      "category": "Im Zentrum",
-      "ticket": null,
-      "source": "https://kalender.subonline.org/event/viva-ts-treffen-51/"
-    },
     {
       "id": "sub-274929@sub-events",
       "date": "2026-11-29",
@@ -2963,6 +2931,38 @@
       "category": "Im Zentrum",
       "ticket": null,
       "source": "https://kalender.subonline.org/event/cercle-francais-48/"
+    },
+    {
+      "id": "sub-295794@sub-events",
+      "date": "2027-02-26",
+      "title": "Queer Bipocs Munich",
+      "description": "",
+      "start": "19:00",
+      "end": "22:00",
+      "endDate": "2027-02-26",
+      "allDay": false,
+      "startUtc": "2027-02-26T18:00:00Z",
+      "endUtc": "2027-02-26T21:00:00Z",
+      "location": "Ort siehe Originaltermin",
+      "category": "Im Zentrum",
+      "ticket": null,
+      "source": "https://kalender.subonline.org/event/queer-bipocs-munich-14/"
+    },
+    {
+      "id": "sub-295795@sub-events",
+      "date": "2027-02-26",
+      "title": "VIVA TS Treffen",
+      "description": "",
+      "start": "20:00",
+      "end": "22:30",
+      "endDate": "2027-02-26",
+      "allDay": false,
+      "startUtc": "2027-02-26T19:00:00Z",
+      "endUtc": "2027-02-26T21:30:00Z",
+      "location": "Ort siehe Originaltermin",
+      "category": "Im Zentrum",
+      "ticket": null,
+      "source": "https://kalender.subonline.org/event/viva-ts-treffen-63/"
     }
   ]
 }
